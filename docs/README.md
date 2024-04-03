@@ -13,15 +13,23 @@ QQ频道：[pd.qq.com/s/7conjnpx7](https://pd.qq.com/s/7conjnpx7)
 
 ### 文档搜索太麻烦，来访问我的分享小站吧！直观一点  
 
->*永久防丢失页，请收藏到书签*  
+
+
+> *永久防丢失页，请收藏到书签*  
 <https://link3.cc/hack>  
-*资源文档，资源每日更新*  
+>
+>
+> 资源博客地址：  
+> [https://www.haozy.top](https://www.haozy.top/)  
+>
+>
+> *资源文档，资源每日更新*  
 <https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY>  
-*那个快访问那个*  
-[https://www.haozy.top](https://www.haozy.top/)  
-[https://aiyyds.cn.eu.org](https://aiyyds.cn.eu.org/)  
-[https://alyp.eu.org](https://alyp.eu.org/)  
-[https://hao.netlify.app](https://hao.netlify.app/)  
+
+> 旧站：  
+>[https://aiyyds.cn.eu.org](https://aiyyds.cn.eu.org/)  
+>[https://alyp.eu.org](https://alyp.eu.org/)  
+>[https://hao.netlify.app](https://hao.netlify.app/)  
 
 ---
 
@@ -29,3 +37,17 @@ QQ频道：[pd.qq.com/s/7conjnpx7](https://pd.qq.com/s/7conjnpx7)
 <https://pages.aliyundrive.com/mobile-page/web/signup.html?code=e24ef67>
 
 >我的阿里云盘被永久封禁了分享功能，以后新内容无法创建单独链接，只能用存活的阿里云盘总链接代用，自己对应分类查找所需的资源。阿里盘在容量用完之前我会继续保持资源更新！毕竟频道内大部分还是阿里盘用户较多！ 看剧比较多的朋友建议另外创建一个夸盘或迅雷
+
+----
+
+<span id="sitetime"></span>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-291R66VCRB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-291R66VCRB');
+</script>

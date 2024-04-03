@@ -2,10 +2,6 @@
 
 ----
 
-#### 《迈克尔·杰克逊》 MV.演唱会.修复整合收藏
-
-阿里：<https://www.aliyundrive.com/s/jTtUaRj19Wj>
-
 #### 《周杰伦》 FLAC无损专辑.高清修复MV.蓝光演唱会.私人收藏
 
 阿里：<https://www.aliyundrive.com/s/3m2ULCyYTnm>
@@ -14,19 +10,19 @@
 
 阿里：<https://www.aliyundrive.com/s/tXs59HT4TjA>
 
+#### 《迈克尔·杰克逊》 MV.演唱会.修复整合收藏
+
+阿里：<https://www.aliyundrive.com/s/jTtUaRj19Wj>
+
 #### 《音乐三部曲.下歌不求人.无损音乐自行下载.包括了刮削软件.本地播放器.下歌软件》安卓
 
 阿里：<https://www.aliyundrive.com/s/srQ7NNpT743>
-
-#### 《周杰伦》 FLAC无损专辑.高清修复MV.蓝光演唱会.私人收藏
-
-阿里：<https://www.aliyundrive.com/s/3m2ULCyYTnm>
 
 #### 《唐诗宋词诵读合集》 MP3文件（唐诗319首、宋词300首）
 
 夸克：<https://pan.quark.cn/s/082663d19f8b>
 
-#### 《2023《QQ音乐年度热歌榜TOP300》[FLAC MP3][8.8G]》
+#### 《2023 QQ音乐年度热歌榜TOP300》[FLAC MP3][8.8G]》
 
 夸克：<https://pan.quark.cn/s/fc08351c2783>
 
@@ -85,18 +81,6 @@
 #### 《网易云评论最多的韩语歌曲TOP200》
 
 夸克：<https://pan.quark.cn/s/b56a95798499>
-
-#### 《迈克尔·杰克逊》 MV.演唱会.修复整合收藏
-
-阿里：<https://www.aliyundrive.com/s/jTtUaRj19Wj>
-
-#### 《张国荣告别乐坛演唱会专辑》 flac无损格式.已经刮削过了
-
-阿里：<https://www.aliyundrive.com/s/tXs59HT4TjA>
-
-#### 《音乐三部曲.下歌不求人.无损音乐自行下载.包括了刮削软件.本地播放器.下歌软件》安卓
-
-阿里：<https://www.aliyundrive.com/s/srQ7NNpT743>
 
 #### 《14套绝版演唱会の超清蓝光60帧画质》
 
