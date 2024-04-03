@@ -24,3 +24,7 @@
 - [短 剧](zh-cn/skits)
 - [教学视频](zh-cn/instruction)
 - [其 他](zh-cn/additional)
+
+---
+
+- [留言板](zh-cn/留言板.html)

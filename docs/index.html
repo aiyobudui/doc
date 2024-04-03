@@ -12,8 +12,7 @@
   <meta name="description" content="对酒当歌分享">
   <link rel="icon" href="favicon.ico" />
   <link rel="stylesheet" href="assets/css/main.css" />
-  <link rel="stylesheet" href="assets/css/theme-simple.css" />
-
+  <link rel="stylesheet" href="assets/css/theme-simple.css">
 
   <!-- 自定义主题样式 -->
   <style>
@@ -35,15 +34,16 @@
 </head>
 
 <body>
-  <div id="app"></div>
+  <div id="app">正在加载中..</div>
   <script>
     window.$docsify = {
       // docsify-留言板
       Valine: {
         appId: 'c07LQPl4kvoHe374MmKvqP9C-gzGzoHsz',
         appKey: 'tNZelts8Qg0wzGjBBlUFHX7y',
-        // docPath: 'hash', //default to `hash` ,or you can choose `full`
+        // docPath: 'hash', //默认为散列，也可以选择full
       },
+
       themeable: {
         readyTransition: true, // default 显示淡入淡出过渡
         responsiveTables: true, // default 较小的屏幕上显示为响应式表
@@ -51,6 +51,7 @@
       name: '<span>对酒当歌分享</span>',
       repo: '',
       el: '#app',
+
       // 启用封面页 默认值: false 开启后是加载 _coverpage.md 文件
       coverpage: true,
 
@@ -115,7 +116,7 @@
       pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/,
 
       // 让你的内容页在滚动到指定的锚点时，距离页面顶部有一定空间。当你使用 固定页头 布局时这个选项很有用，可以让你的锚点对齐标题栏。
-      topMargin: 90, // default: 0
+      topMargin: 40, // default: 0
 
       // 页脚信息插件
       loadFooter: true,
@@ -138,7 +139,6 @@
         offset: 25
       },
 
-
       // 文本高亮
       'flexible-alerts': {
 
@@ -156,15 +156,15 @@
           label: "切记"
         }
       },
-
-
     }
 
   </script>
+
   <script src="assets/js/main.js"></script>
 
-  <!-- docsify的js依赖 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>-->
+  <!-- docsify的js依赖 + 谷歌统计 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js" data-ga='G-291R66VCRB'></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
 
   <!-- 全文搜索 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
@@ -193,7 +193,7 @@
   <!-- 访问量统计 -->
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-    <!-- 留言板功能 -->
+  <!-- 留言板功能 -->
   <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
   <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
 
@@ -214,6 +214,7 @@
       var todayHour = today.getHours();
       var todayMinute = today.getMinutes();
       var todaySecond = today.getSeconds();
+
       /* Date.UTC() -- 返回date对象距世界标准时间(UTC)1970年1月1日午夜之间的毫秒数(时间戳)
       year - 作为date对象的年份，为4位年份值
       month - 0-11之间的整数，做为date对象的月份
@@ -235,18 +236,6 @@
     siteTime();
 
   </script>
-
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-291R66VCRB"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'G-291R66VCRB');
-  </script>
-
-
 
 </body>
 

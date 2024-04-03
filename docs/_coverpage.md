@@ -1,9 +1,6 @@
-
 <!-- _coverpage.md -->
-<img src="assets\img\1.gif" width="100%">
 
-<!-- 背景色 -->
-<!-- ![color](#f0f0f0) -->
+<img src="assets\img\1.gif">
 
 # 对酒当歌分享 <small>下拉</small>
 
@@ -15,3 +12,4 @@
 
 [QQ群](https://qm.qq.com/q/4bJ9hEzh3y)
 [B站](https://space.bilibili.com/118765586)
+[进入](README)
