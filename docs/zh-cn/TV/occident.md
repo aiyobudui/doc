@@ -16,7 +16,7 @@
 
 夸克：<https://pan.quark.cn/s/67db34ea835a>
 
-迅雷：[https://pan.xunlei.com/s/VNtW6LML86o9CYDJ0e04fyFQA1?pwd=7wsq#](https://pan.xunlei.com/s/VNtW6LML86o9CYDJ0e04fyFQA1?pwd=7wsq#)
+迅雷：https://pan.xunlei.com/s/VNtW6LML86o9CYDJ0e04fyFQA1?pwd=7wsq#
 
 #### 幕府将军 (2024) 4K HDR 日英音轨 10集更新中 （历史 战争 冒险）（真田广之 柯斯莫·贾维斯）
 
@@ -25,6 +25,7 @@
 迅雷：https://pan.xunlei.com/s/VNsxZlhI1Nr-4Ctmwuw4t1Z1A1?pwd=crid#
 
 百度：https://pan.baidu.com/s/1aOxY0-zg9XJnC_suRnGypA?pwd=0000
+
 ----
 
 ## 已完结的..
@@ -33,7 +34,7 @@
 
 夸克：<https://pan.quark.cn/s/419c6c0f24f1>
 
-迅雷：[https://pan.xunlei.com/s/VNrjP05hwgSe85xC4LeJId5lA1?pwd=i5qz#](https://pan.xunlei.com/s/VNrjP05hwgSe85xC4LeJId5lA1?pwd=i5qz#)
+迅雷：https://pan.xunlei.com/s/VNrjP05hwgSe85xC4LeJId5lA1?pwd=i5qz#
 
 #### 三体 网飞版（2024）4K HDR+1080P 国英双音轨 简繁字幕 8集全
 
@@ -45,13 +46,13 @@
 
 夸克：<https://pan.quark.cn/s/242646d1594a>
 
-迅雷：[https://pan.xunlei.com/s/VNp38IvKjsVavs6HlxFxyunGA1?pwd=mhnj#](https://pan.xunlei.com/s/VNp38IvKjsVavs6HlxFxyunGA1?pwd=mhnj#)
+迅雷：https://pan.xunlei.com/s/VNp38IvKjsVavs6HlxFxyunGA1?pwd=mhnj#
 
 #### 海上密室谋杀案（2024）美版 10集全（悬疑 惊悚）
 
 夸克：<https://pan.quark.cn/s/4413c243d02c>
 
-迅雷：[https://pan.xunlei.com/s/VNsIgxaA4fM0LGE6EXRiSG0tA1?pwd=q2z6#](https://pan.xunlei.com/s/VNsIgxaA4fM0LGE6EXRiSG0tA1?pwd=q2z6#)
+迅雷：https://pan.xunlei.com/s/VNsIgxaA4fM0LGE6EXRiSG0tA1?pwd=q2z6#
 
 #### 真探 1-4季全 1080P中字
 

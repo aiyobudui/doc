@@ -32,9 +32,9 @@
 
 夸克：<https://pan.quark.cn/s/2c947808c273>
 
-迅雷：[https://pan.xunlei.com/s/VNu-nR2A5tdnsn5xrG6Gc_YyA1?pwd=5dvj#](https://pan.xunlei.com/s/VNu-nR2A5tdnsn5xrG6Gc_YyA1?pwd=5dvj#)
+迅雷：https://pan.xunlei.com/s/VNu-nR2A5tdnsn5xrG6Gc_YyA1?pwd=5dvj#
 
-百度:<https://pan.baidu.com/s/1FIAcLk49o6i0D6oeOUcgmQ?pwd=pae9>
+百度：<https://pan.baidu.com/s/1FIAcLk49o6i0D6oeOUcgmQ?pwd=pae9>
 
 #### 炸鸡块奇遇记（2024）10集全 奇幻 喜剧 科幻
 

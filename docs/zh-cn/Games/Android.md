@@ -6,6 +6,8 @@
 
 夸克：<https://pan.quark.cn/s/7ce0309f7c3e>
 
+迅雷：https://pan.xunlei.com/s/VNuer9a_S_aqAxkK_i_ejmuqA1?pwd=7ehe#
+
 ----
 
 #### 《开罗物语系列合集》 安卓版
@@ -16,19 +18,19 @@
 
 夸克：<https://pan.quark.cn/s/7b87ce3703bb>
 
-迅雷：[https://pan.xunlei.com/s/VNr69wHn42KWEkZriHzudhjKA1?pwd=8q2x#](https://pan.xunlei.com/s/VNr69wHn42KWEkZriHzudhjKA1?pwd=8q2x#)
+迅雷：https://pan.xunlei.com/s/VNr69wHn42KWEkZriHzudhjKA1?pwd=8q2x#
 
 #### 《王国保卫战》1-5部 安卓版 合集
 
 夸克：<https://pan.quark.cn/s/e0a28d7e7269>
 
-迅雷：[https://pan.xunlei.com/s/VNr9wvG_C3DWufWRhvGfh-hdA1?pwd=zwkw#](https://pan.xunlei.com/s/VNr9wvG_C3DWufWRhvGfh-hdA1?pwd=zwkw#)
+迅雷：https://pan.xunlei.com/s/VNr9wvG_C3DWufWRhvGfh-hdA1?pwd=zwkw#
 
 #### 《植物大战僵尸2》各种版本大合集
 
 夸克：<https://pan.quark.cn/s/93da9d90e232>
 
-迅雷：[https://pan.xunlei.com/s/VNrA4zOM4SPbb_7mg3JaJjiWA1?pwd=tsq6#](https://pan.xunlei.com/s/VNrA4zOM4SPbb_7mg3JaJjiWA1?pwd=tsq6#)
+迅雷：https://pan.xunlei.com/s/VNrA4zOM4SPbb_7mg3JaJjiWA1?pwd=tsq6#
 
 #### 《重生细胞 v3.3.6》安卓完整版+DLC 重返恶魔城Steam移植 死亡细胞
 

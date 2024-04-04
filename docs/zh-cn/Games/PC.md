@@ -8,11 +8,15 @@
 
 迅雷：<https://pan.xunlei.com/s/VNu5l3O4buwnFylEs0A0MBlVA1?pwd=34c7#>
 
-#### 《地平线：西之绝境》 v1.0.38.0 豪华中文完整版 附单独升级补丁
+百度：https://pan.baidu.com/s/1KWlzGw7eh-31BLYJ9hr8WQ?pwd=0000
+
+#### 《地平线：西之绝境》 最新 豪华中文完整版 附单独升级补丁
 
 夸克：<https://pan.quark.cn/s/6c5d4f67b391>
 
 迅雷：<https://pan.xunlei.com/s/VNtfmqAqO3u-7wuDE4AnAWsdA1?pwd=xpyx#>
+
+百度：https://pan.baidu.com/s/1KIIj7K-ckKZdC3MyAFAxpA?pwd=0000
 
 #### 《僵尸世界大战：劫后余生》 最新 全DLC 豪华中文版
 
@@ -29,7 +33,6 @@
 迅雷：<https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#>
 
 百度：<https://pan.baidu.com/s/198LYvUPg74dIn0i7sP54dw?pwd=0000>
-
 
 #### 《恐怖黎明》 最新 豪华中文版 全DLC
 
@@ -49,7 +52,7 @@
 
 夸克：<https://pan.quark.cn/s/5cf2239b0f88>
 
-迅雷：[https://pan.xunlei.com/s/VNuDbhANESbDnYppcjQKX6xAA1?pwd=tv3j#](https://pan.xunlei.com/s/VNuDbhANESbDnYppcjQKX6xAA1?pwd=tv3j#)
+迅雷：https://pan.xunlei.com/s/VNuDbhANESbDnYppcjQKX6xAA1?pwd=tv3j#
 
 百度：<https://pan.baidu.com/s/1ihh1iRRnwEYn49AbVZCCnQ?pwd=0000>
 
@@ -69,7 +72,7 @@
 
 夸克：<https://pan.quark.cn/s/4c5b5b42ed21>
 
-迅雷：[https://pan.xunlei.com/s/VNsslqRx9y9PVmtHI8gi9rCgA1?pwd=uiju#](https://pan.xunlei.com/s/VNsslqRx9y9PVmtHI8gi9rCgA1?pwd=uiju#)
+迅雷：https://pan.xunlei.com/s/VNsslqRx9y9PVmtHI8gi9rCgA1?pwd=uiju#
 
 #### 《奇唤士》 最新 豪华中文版 全DLC 版本号看链接
 
@@ -183,7 +186,7 @@
 
 夸克：<https://pan.quark.cn/s/1dfeca0c156e>
 
-迅雷：[https://pan.xunlei.com/s/VNrkEv4vXYUsRKnHQmys2NJVA1?pwd=3ecn#](https://pan.xunlei.com/s/VNrkEv4vXYUsRKnHQmys2NJVA1?pwd=3ecn#)
+迅雷：https://pan.xunlei.com/s/VNrkEv4vXYUsRKnHQmys2NJVA1?pwd=3ecn#
 
 #### 《十字军之王3》1.12.2.1+1.1.3联机 豪华中文版 全DLC 新增北非服饰DLC 附XG器
 
@@ -209,13 +212,15 @@
 
 夸克：<https://pan.quark.cn/s/278899b922e5>
 
-迅雷：[https://pan.xunlei.com/s/VNtKlm0t9Cfpnuk-BzvaR45OA1?pwd=g3qz#](https://pan.xunlei.com/s/VNtKlm0t9Cfpnuk-BzvaR45OA1?pwd=g3qz#)
+迅雷：https://pan.xunlei.com/s/VNtKlm0t9Cfpnuk-BzvaR45OA1?pwd=g3qz#
+
+百度：https://pan.baidu.com/s/1jWvHVsIHBntqAn6fd_TIBw?pwd=0000
 
 #### 《图灵完备》 最新 中文版 版本号看文件名
 
 夸克：<https://pan.quark.cn/s/438c98adc7cf>
 
-迅雷：[https://pan.xunlei.com/s/VNtKsQu8sNFbthGSpYF0yPvOA1?pwd=tnd8#](https://pan.xunlei.com/s/VNtKsQu8sNFbthGSpYF0yPvOA1?pwd=tnd8#)
+迅雷：https://pan.xunlei.com/s/VNtKsQu8sNFbthGSpYF0yPvOA1?pwd=tnd8#
 
 #### 《紫色晶石》 v0.8.2.5 中文版
 
@@ -235,7 +240,7 @@
 
 #### 《空洞骑士》mod版 苍白宫廷
 
-迅雷：[https://pan.xunlei.com/s/VNsvaF3rbuaU3fE1611LPb6lA1?pwd=kyei#](https://pan.xunlei.com/s/VNsvaF3rbuaU3fE1611LPb6lA1?pwd=kyei#)
+迅雷：https://pan.xunlei.com/s/VNsvaF3rbuaU3fE1611LPb6lA1?pwd=kyei#
 
 #### 《只只大冒险》 官方中文版
 
@@ -487,6 +492,8 @@
 夸克：<https://pan.quark.cn/s/7bb7635fafb0>
 
 迅雷：<https://pan.xunlei.com/s/VNtg7p0je2b7WrGcBt1aO0TWA1?pwd=e49k#>
+
+百度：https://pan.baidu.com/s/1rlrPTANXtDdXmJ1HkImhTA?pwd=0000
 
 #### 《女神异闻录5：乱战》 豪华中文版 全DLC PC版
 
@@ -926,31 +933,33 @@
 
 夸克：<https://pan.quark.cn/s/a34e56c62989>
 
-迅雷：[https://pan.xunlei.com/s/VNsZ4QxIYDlmx9Ch_QWM-3D0A1?pwd=37qn#](https://pan.xunlei.com/s/VNsZ4QxIYDlmx9Ch_QWM-3D0A1?pwd=37qn#)
+迅雷：https://pan.xunlei.com/s/VNsZ4QxIYDlmx9Ch_QWM-3D0A1?pwd=37qn#
 
 #### 《纸境奇缘》 V1.4.1 解压即玩
 
 夸克：<https://pan.quark.cn/s/ae5dddd40568>
 
-迅雷：[https://pan.xunlei.com/s/VNsMzfsX0mMVz408-K2silgDA1?pwd=wyvj#](https://pan.xunlei.com/s/VNsMzfsX0mMVz408-K2silgDA1?pwd=wyvj#)
+迅雷：https://pan.xunlei.com/s/VNsMzfsX0mMVz408-K2silgDA1?pwd=wyvj#
 
 #### 《塞尔达传说：旷野之息》 v1.6.0 全DLC+mod 解锁帧率 附模拟器
 
 链接：<https://pan.quark.cn/s/e648919d1203>
 
-迅雷：[https://pan.xunlei.com/s/VNobQyoi4W9i64AwItZh2tOaA1?pwd=4fj2#](https://pan.xunlei.com/s/VNobQyoi4W9i64AwItZh2tOaA1?pwd=4fj2#)
+迅雷：https://pan.xunlei.com/s/VNobQyoi4W9i64AwItZh2tOaA1?pwd=4fj2#
 
 #### 《塞尔达传说：王国之泪》 v1.2.1整合版 解锁60帧 附模拟器
 
 夸克：<https://pan.quark.cn/s/0a97cf9f79f9>
 
-迅雷：[https://pan.xunlei.com/s/VNta8pOaFDx9QvHxz05Qd0oYA1?pwd=vpjn#](https://pan.xunlei.com/s/VNta8pOaFDx9QvHxz05Qd0oYA1?pwd=vpjn#)
+迅雷：https://pan.xunlei.com/s/VNta8pOaFDx9QvHxz05Qd0oYA1?pwd=vpjn#
 
 #### 《星之卡比》wii 豪华版 附模拟器 附模拟器
 
 夸克：<https://pan.quark.cn/s/89a8e4692f06>
 
-夸克：[https://pan.xunlei.com/s/VNtqZeazTXVAZexRrfNzy2eWA1?pwd=4he6#](https://pan.xunlei.com/s/VNtqZeazTXVAZexRrfNzy2eWA1?pwd=4he6#)
+夸克：https://pan.xunlei.com/s/VNtqZeazTXVAZexRrfNzy2eWA1?pwd=4he6#
+
+百度：https://pan.baidu.com/s/1DPpUwggtV9dS41DTzrLEJA?pwd=0000
 
 #### 《星之卡比》 合集
 
@@ -960,7 +969,7 @@
 
 夸克：<https://pan.quark.cn/s/ba8281b56977>
 
-迅雷：[https://pan.xunlei.com/s/VNobR8YyiTDx8LCCl4AWFg5OA1?pwd=cmu8#](https://pan.xunlei.com/s/VNobR8YyiTDx8LCCl4AWFg5OA1?pwd=cmu8#)
+迅雷：https://pan.xunlei.com/s/VNobR8YyiTDx8LCCl4AWFg5OA1?pwd=cmu8#
 
 #### 《只狼：影逝二度》 v1.06 豪华中文版
 
@@ -978,51 +987,53 @@
 
 夸克：<https://pan.quark.cn/s/75aa2b95228b>
 
-迅雷：[https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#](https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#)
+迅雷：https://pan.xunlei.com/s/VNqvsi0w9dh83vEbcVF4eiSEA1?pwd=rbc9#
 
 #### 《刺客信条》系列15部（英灵殿+枭雄+叛变+黑旗+大革命+编年史三部曲+兄弟会）
 
 链接：<https://pan.quark.cn/s/e594cf3086c2>
 
-迅雷：[https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#](https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#)
+迅雷：https://pan.xunlei.com/s/VNobSQ0fssIDht9Wi4CWedptA1?pwd=yd55#
 
 #### 《漫威蜘蛛侠2》 v1.3.4 豪华中文版 单独升级补丁 PS5移植 PC电脑版
 
 夸克：<https://pan.quark.cn/s/25a970eff7b3>
 
-迅雷：[https://pan.xunlei.com/s/VNuJG-0t4ZHjEs3sCONDzSNDA1?pwd=8mh5#](https://pan.xunlei.com/s/VNuJG-0t4ZHjEs3sCONDzSNDA1?pwd=8mh5#)
+迅雷：https://pan.xunlei.com/s/VNuJG-0t4ZHjEs3sCONDzSNDA1?pwd=8mh5#
 
 #### 《漫威蜘蛛侠 重制版》 v2.1012.0.0
 
 夸克：<https://pan.quark.cn/s/a653344f363a>
 
-迅雷：[https://pan.xunlei.com/s/VNobfv9xZ8VpJb3sSuve8vuSA1?pwd=nppf#](https://pan.xunlei.com/s/VNobfv9xZ8VpJb3sSuve8vuSA1?pwd=nppf#)
+迅雷：https://pan.xunlei.com/s/VNobfv9xZ8VpJb3sSuve8vuSA1?pwd=nppf#
 
 #### 《漫威蜘蛛侠 迈尔斯莫拉莱斯》 v2.1012.0.0
 
 夸克：<https://pan.quark.cn/s/1cc2e6b57a97>
 
-迅雷：[https://pan.xunlei.com/s/VNobgwozE59Fjsz1fpjXoN5MA1?pwd=pnbt#](https://pan.xunlei.com/s/VNobgwozE59Fjsz1fpjXoN5MA1?pwd=pnbt#)
+迅雷：https://pan.xunlei.com/s/VNobgwozE59Fjsz1fpjXoN5MA1?pwd=pnbt#
 
 #### 《博德之门3》 最新 豪华中文版 全DLC 附单独升级补丁 版本号链接
 
 夸克：<https://pan.quark.cn/s/22ebb70c033b>
 
-迅雷：[https://pan.xunlei.com/s/VNobhPdbNDU7zYgxPhLuSRtRA1?pwd=398t#](https://pan.xunlei.com/s/VNobhPdbNDU7zYgxPhLuSRtRA1?pwd=398t#)
+迅雷：https://pan.xunlei.com/s/VNobhPdbNDU7zYgxPhLuSRtRA1?pwd=398t#
+
+百度：https://pan.baidu.com/s/1eBpCZeVfo5JjHX3uUpoI6A?pwd=0000
 
 #### 《赵云传：云汉腾龙》v1.1.1 中文版 附XG器
 
-迅雷：[https://pan.xunlei.com/s/VNp48c3nQt7SZ1oKeY6xrq7bA1?pwd=z5ca#](https://pan.xunlei.com/s/VNp48c3nQt7SZ1oKeY6xrq7bA1?pwd=z5ca)
+迅雷：https://pan.xunlei.com/s/VNp48c3nQt7SZ1oKeY6xrq7bA1?pwd=z5ca#
 
 #### 《侏罗纪世界进化》1-2部
 
 链接：<https://pan.quark.cn/s/2bbd72bacd47>
 
-迅雷：[https://pan.xunlei.com/s/VNpAil3kuIHDOX7GaTZlKMMOA1?pwd=9tun#](https://pan.xunlei.com/s/VNpAil3kuIHDOX7GaTZlKMMOA1?pwd=9tun#)
+迅雷：https://pan.xunlei.com/s/VNpAil3kuIHDOX7GaTZlKMMOA1?pwd=9tun#
 
 #### 《港诡实录》解压即玩
 
-迅雷：[https://pan.xunlei.com/s/VNq1qwsB5ed8XNX-HRS5NSoSA1?pwd=f7j9#](https://pan.xunlei.com/s/VNq1qwsB5ed8XNX-HRS5NSoSA1?pwd=f7j9)
+迅雷：https://pan.xunlei.com/s/VNq1qwsB5ed8XNX-HRS5NSoSA1?pwd=f7j9#
 
 #### 《狙击精英》 1-3合集
 
@@ -1031,6 +1042,10 @@
 #### 《狙击精英4》 v1.5.0
 
 夸克：<https://pan.quark.cn/s/5b695d8a20a6>
+
+迅雷：https://pan.xunlei.com/s/VNuenkkEMO36N9TX9pNUcV45A1?pwd=sheg#
+
+百度：https://pan.baidu.com/s/1kmMwqkWZ-MX5oZ_qnSaQgg?pwd=0000
 
 #### 《跑跑卡丁车》 v3034 单机版 新增天蝎V1车
 
@@ -1142,7 +1157,7 @@
 
 夸克：<https://pan.quark.cn/s/f65ff7184a3e>
 
-迅雷：[https://pan.xunlei.com/s/VNtjbiFKuAnx1itnVSKqYufJA1?pwd=8s4y#](https://pan.xunlei.com/s/VNtjbiFKuAnx1itnVSKqYufJA1?pwd=8s4y#)
+迅雷：https://pan.xunlei.com/s/VNtjbiFKuAnx1itnVSKqYufJA1?pwd=8s4y#
 
 #### 《巴士模拟》系列 18 19 21
 
@@ -1156,7 +1171,7 @@
 
 夸克：<https://pan.quark.cn/s/d297fd254daf>
 
-迅雷：[https://pan.xunlei.com/s/VNtk-zvMNr2y03iJ9JmPgrHTA1?pwd=qdse#](https://pan.xunlei.com/s/VNtk-zvMNr2y03iJ9JmPgrHTA1?pwd=qdse#)
+迅雷：https://pan.xunlei.com/s/VNtk-zvMNr2y03iJ9JmPgrHTA1?pwd=qdse#
 
 #### 《末日准备狂》v1.31j 全DLC 豪华中文版
 
@@ -1170,7 +1185,7 @@
 
 夸克：<https://pan.quark.cn/s/ed69188521bc>
 
-迅雷：[https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#](https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#)
+迅雷：https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#
 
 百度：<https://pan.baidu.com/s/1MqtIa-T7y2oazdRkrxGP5A?pwd=0000>
 
@@ -1182,12 +1197,12 @@
 
 夸克：<https://pan.quark.cn/s/04e7cf5ff9d6>
 
-迅雷：[https://pan.xunlei.com/s/VNttMzdbquKPx0hR5YfuJ5h8A1?pwd=5crq#](https://pan.xunlei.com/s/VNttMzdbquKPx0hR5YfuJ5h8A1?pwd=5crq#)
+迅雷：https://pan.xunlei.com/s/VNttMzdbquKPx0hR5YfuJ5h8A1?pwd=5crq#
 
 #### 《背包英雄》 最新中文版 2024.3.19更新
 
 夸克：<https://pan.quark.cn/s/66f62c8042b7>
 
-迅雷：[https://pan.xunlei.com/s/VNttNSKhTXVAZexRrfO-fkKIA1?pwd=kkc5#](https://pan.xunlei.com/s/VNttNSKhTXVAZexRrfO-fkKIA1?pwd=kkc5#)
+迅雷：https://pan.xunlei.com/s/VNttNSKhTXVAZexRrfO-fkKIA1?pwd=kkc5#
 
 百度：<https://pan.baidu.com/s/1NKNY2xb8oNAVWygfo0wgnQ?pwd=0000>
