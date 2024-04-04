@@ -34,49 +34,47 @@
       /*设置标题的颜色*/
       --heading-color: #3f51b5;
 
-      --notice-before-font-size: 25px;
-
-      
-
       /*侧边栏自定义>*/
       aside.sidebar ul li {
-      margin: 0;
-      position: relative;
-    }
- 
-    aside.sidebar ul li ul {
-      margin: 6px 0;
-    }
- 
-    aside.sidebar ul li p {
-      padding-left: 22px;
-      font-size: 16px;
-      font-weight: normal;
-    }
- 
-    aside.sidebar ul li a {
-      line-height: 30px;     /* 导航栏字体间距 */
-      font-size: 14.4px;    /* 导航栏字体大小 */
-      padding: 3px 0 3px 22px;
-    }
- 
-    aside.sidebar ul li.active > a {
-      font-size: 15.6px !important;
-    }
+        margin: 0;
+        position: relative;
+      }
 
-    aside.sidebar ul li.active > a:before {
-      content: '' !important;
-      position: absolute !important;
-      margin: 0 !important;
-      width: 10px !important;
-      height: 10px !important;
-      top: 15px !important;
-      left: 0px !important;
-      border-radius: 50% !important;
-      background-color: #fed24a !important;
-      box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important;
+      aside.sidebar ul li ul {
+        margin: 6px 0;
+      }
+
+      aside.sidebar ul li p {
+        padding-left: 22px;
+        font-size: 16px;
+        font-weight: normal;
+      }
+
+      aside.sidebar ul li a {
+        line-height: 30px;
+        /* 导航栏字体间距 */
+        font-size: 14.4px;
+        /* 导航栏字体大小 */
+        padding: 3px 0 3px 22px;
+      }
+
+      aside.sidebar ul li.active>a {
+        font-size: 15.6px !important;
+      }
+
+      aside.sidebar ul li.active>a:before {
+        content: '' !important;
+        position: absolute !important;
+        margin: 0 !important;
+        width: 10px !important;
+        height: 10px !important;
+        top: 15px !important;
+        left: 0px !important;
+        border-radius: 50% !important;
+        background-color: #fed24a !important;
+        box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important;
+      }
     }
-    
   </style>
   <script>
     (function () {
@@ -157,7 +155,6 @@
         noData: "找不到结果，换个搜索词试试？或者联系站长补充资源。", //
         placeholder: " 搜 索 ",            // 搜索框的提示
         maxAge: 86400000,                  // 过期时间，单位毫秒，默认一天
-        namespace: 'web',
           // todo 这个数组是执行脚本得到的，不需要人工修改，具体请查看 gulpfile.js
           /*gulp*/paths: [],
         // 允许创建的搜索索引块，定位到 6 级标题
