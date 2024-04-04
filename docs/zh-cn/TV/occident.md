@@ -18,12 +18,13 @@
 
 迅雷：[https://pan.xunlei.com/s/VNtW6LML86o9CYDJ0e04fyFQA1?pwd=7wsq#](https://pan.xunlei.com/s/VNtW6LML86o9CYDJ0e04fyFQA1?pwd=7wsq#)
 
-#### 幕府将军 (2024) 4K HDR 日英音轨（历史 战争 冒险）（真田广之 柯斯莫·贾维斯）
+#### 幕府将军 (2024) 4K HDR 日英音轨 10集更新中 （历史 战争 冒险）（真田广之 柯斯莫·贾维斯）
 
 夸克：<https://pan.quark.cn/s/0c5849d10d9e>
 
-迅雷：[https://pan.xunlei.com/s/VNsxZlhI1Nr-4Ctmwuw4t1Z1A1?pwd=crid#](https://pan.xunlei.com/s/VNsxZlhI1Nr-4Ctmwuw4t1Z1A1?pwd=crid#)
+迅雷：https://pan.xunlei.com/s/VNsxZlhI1Nr-4Ctmwuw4t1Z1A1?pwd=crid#
 
+百度：https://pan.baidu.com/s/1aOxY0-zg9XJnC_suRnGypA?pwd=0000
 ----
 
 ## 已完结的..
