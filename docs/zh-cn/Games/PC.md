@@ -6,13 +6,13 @@
 
 夸克：<https://pan.quark.cn/s/9811642990ef>
 
-迅雷：[https://pan.xunlei.com/s/VNu5l3O4buwnFylEs0A0MBlVA1?pwd=34c7#](https://pan.xunlei.com/s/VNu5l3O4buwnFylEs0A0MBlVA1?pwd=34c7#)
+迅雷：<https://pan.xunlei.com/s/VNu5l3O4buwnFylEs0A0MBlVA1?pwd=34c7#>
 
 #### 《地平线：西之绝境》 v1.0.38.0 豪华中文完整版 附单独升级补丁
 
 夸克：<https://pan.quark.cn/s/6c5d4f67b391>
 
-迅雷：[https://pan.xunlei.com/s/VNtfmqAqO3u-7wuDE4AnAWsdA1?pwd=xpyx#](https://pan.xunlei.com/s/VNtfmqAqO3u-7wuDE4AnAWsdA1?pwd=xpyx#)
+迅雷：<https://pan.xunlei.com/s/VNtfmqAqO3u-7wuDE4AnAWsdA1?pwd=xpyx#>
 
 #### 《僵尸世界大战：劫后余生》 最新 全DLC 豪华中文版
 
@@ -26,7 +26,10 @@
 
 夸克：<https://pan.quark.cn/s/280bf59f64c4>
 
-迅雷：[https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#](https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#)
+迅雷：<https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#>
+
+百度：<https://pan.baidu.com/s/198LYvUPg74dIn0i7sP54dw?pwd=0000>
+
 
 #### 《恐怖黎明》 最新 豪华中文版 全DLC
 
@@ -246,7 +249,7 @@
 
 夸克：<https://pan.quark.cn/s/a28bf538df03>
 
-迅雷：[https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz](https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#)
+迅雷：<https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#>
 
 #### 《极限竞速：地平线5》 最新 豪华中文尊享版 全DLC 新增中国福星车包DLC
 
@@ -260,13 +263,15 @@
 
 夸克：<https://pan.quark.cn/s/ba31b53f7fb4>
 
-迅雷：[https://pan.xunlei.com/s/VNtW0ldy_ERIG2hGivkVE0htA1?pwd=v4x9#](https://pan.xunlei.com/s/VNtW0ldy_ERIG2hGivkVE0htA1?pwd=v4x9#)
+迅雷：<https://pan.xunlei.com/s/VNtW0ldy_ERIG2hGivkVE0htA1?pwd=v4x9#>
 
 百度：<https://pan.baidu.com/s/1ar1WFDo15H1OFnq9lmUgpA?pwd=0000>
 
 #### 《欧洲卡车模拟2》 v1.49.2.23s 豪华中文版 全DLC
 
 夸克：<https://pan.quark.cn/s/36854e1f4e57>
+
+迅雷：<https://pan.xunlei.com/s/VNudY1SUMO36N9TX9pNUGRgXA1?pwd=28c7#>
 
 #### 《雪地奔驰》 v28.0 豪华中文版 全DLC 新增第12季公共能源DLC
 
@@ -304,7 +309,7 @@
 
 夸克：<https://pan.quark.cn/s/d74980f37a94>
 
-迅雷：[https://pan.xunlei.com/s/VNroIpvWO2zw1yi83KRfI6o3A1?pwd=s7dr#](https://pan.xunlei.com/s/VNroIpvWO2zw1yi83KRfI6o3A1?pwd=s7dr#)
+迅雷：<https://pan.xunlei.com/s/VNroIpvWO2zw1yi83KRfI6o3A1?pwd=s7dr#>
 
 #### 《星露谷物语》中文版 最新版 看文件名
 
@@ -366,31 +371,31 @@
 
 夸克：<https://pan.quark.cn/s/04926ce9438a>
 
-迅雷：[https://pan.xunlei.com/s/VNrRda-X6E_vieOh5a9BU3WnA1?pwd=y6km#](https://pan.xunlei.com/s/VNrRda-X6E_vieOh5a9BU3WnA1?pwd=y6km#)
+迅雷：<https://pan.xunlei.com/s/VNrRda-X6E_vieOh5a9BU3WnA1?pwd=y6km#>
 
 #### 《死亡搁浅》导演剪辑版 v1.004+XG器
 
 夸克：<https://pan.quark.cn/s/76e0310c910c>
 
-迅雷：[https://pan.xunlei.com/s/VNqXJX4BBKWiTLFbgJeV21DMA1?pwd=9jje#](https://pan.xunlei.com/s/VNqXJX4BBKWiTLFbgJeV21DMA1?pwd=9jje#)
+迅雷：<https://pan.xunlei.com/s/VNqXJX4BBKWiTLFbgJeV21DMA1?pwd=9jje#>
 
 #### 《装甲核心6：境界天火》 v1.0.6 豪华中文版 全DLC 附预购特典
 
 夸克：<https://pan.quark.cn/s/16c503962e28>
 
-迅雷：[https://pan.xunlei.com/s/VNr-Qh8F3DXLvnKvENpFJt0SA1?pwd=dmhs#](https://pan.xunlei.com/s/VNr-Qh8F3DXLvnKvENpFJt0SA1?pwd=dmhs#)
+迅雷：<https://pan.xunlei.com/s/VNr-Qh8F3DXLvnKvENpFJt0SA1?pwd=dmhs#>
 
 #### 《底特律 化身为人》 v20230928豪华中文版
 
 夸克：<https://pan.quark.cn/s/a6ed0ab9568e>
 
-迅雷：[https://pan.xunlei.com/s/VNqXIq6xvqCRievXn7p_3-9CA1?pwd=4iut#](https://pan.xunlei.com/s/VNqXIq6xvqCRievXn7p_3-9CA1?pwd=4iut#)
+迅雷：<https://pan.xunlei.com/s/VNqXIq6xvqCRievXn7p_3-9CA1?pwd=4iut#>
 
 #### 《植物大战僵尸》官方+同人魔改版 大全合集
 
 夸克：<https://pan.quark.cn/s/3637578213e7>
 
-迅雷：[https://pan.xunlei.com/s/VNpyOMs89HDZO5kJmS4-FtexA1?pwd=ytw6#](https://pan.xunlei.com/s/VNpyOMs89HDZO5kJmS4-FtexA1?pwd=ytw6#)
+迅雷：<https://pan.xunlei.com/s/VNpyOMs89HDZO5kJmS4-FtexA1?pwd=ytw6#>
 
 #### 《余烬骑士》 v1.3.0 中文版 更新普拉克西斯-归来
 
@@ -452,11 +457,10 @@
 
 夸克：<https://pan.quark.cn/s/461e83c7a22f>
 
-迅雷：[https://pan.xunlei.com/s/VNqw_8mbzZt9sWTk5IbpXZHOA1?pwd=ai5w#](https://pan.xunlei.com/s/VNqw_8mbzZt9sWTk5IbpXZHOA1?pwd=ai5w#)
+迅雷：<https://pan.xunlei.com/s/VNqw_8mbzZt9sWTk5IbpXZHOA1?pwd=ai5w#>
+#### 《仙剑奇侠传》 1-7合集 PC版
 
-#### 《仙剑奇侠传》电脑游戏 1-7合集
-
-迅雷：[https://pan.xunlei.com/s/VNtCoYUu4a0aV6_YUASVnrPIA1?pwd=ju4f#](https://pan.xunlei.com/s/VNtCoYUu4a0aV6_YUASVnrPIA1?pwd=ju4f)
+迅雷：<https://pan.xunlei.com/s/VNtCoYUu4a0aV6_YUASVnrPIA1?pwd=ju4f#>
 
 #### 《幽灵线：东京》 最新 豪华中文版 全DLC 附修G器
 
@@ -482,7 +486,7 @@
 
 夸克：<https://pan.quark.cn/s/7bb7635fafb0>
 
-迅雷：[https://pan.xunlei.com/s/VNtg7p0je2b7WrGcBt1aO0TWA1?pwd=e49k#](https://pan.xunlei.com/s/VNtg7p0je2b7WrGcBt1aO0TWA1?pwd=e49k#)
+迅雷：<https://pan.xunlei.com/s/VNtg7p0je2b7WrGcBt1aO0TWA1?pwd=e49k#>
 
 #### 《女神异闻录5：乱战》 豪华中文版 全DLC PC版
 
@@ -502,7 +506,7 @@
 
 #### 《Teardown》V20231219 + 3 DLC
 
-迅雷：[https://pan.xunlei.com/s/VNq79nkHBHHQz9f2CVXliypkA1?pwd=tksb#](https://pan.xunlei.com/s/VNq79nkHBHHQz9f2CVXliypkA1?pwd=tksb#)
+迅雷：<https://pan.xunlei.com/s/VNq79nkHBHHQz9f2CVXliypkA1?pwd=tksb#>
 
 #### 《ATRL -Mydearmoment- 》DARKSiDERS 亚托莉我的挚爱时光
 

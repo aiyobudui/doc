@@ -1,5 +1,25 @@
 <!-- tabs:start -->
 
+#### **资源网址（收藏）**
+
+* **永久防丢失页**（请收藏到书签）  
+    <https://link3.cc/hack>  
+
+* **资源博客地址**（每日更新这里）  
+     [https://www.haozy.top](https://www.haozy.top/)  
+
+* **在线资源文档**（不定期添加资源）  
+    金山：<https://www.kdocs.cn/l/cvtEtEgmLTaZ>  
+    腾讯：<https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY>  
+
+* **旧站**（不打算更新）  
+    [https://hao.netlify.app](https://hao.netlify.app/)  
+    [https://aiyyds.cn.eu.org](https://aiyyds.cn.eu.org/)  
+    [https://alyp.eu.org](https://alyp.eu.org/)  
+
+ * 阿里云盘 1年容量延期卡-50T容量.参加活动获得 点此链接报名参加  
+    <https://pages.aliyundrive.com/mobile-page/web/signup.html?code=e24ef67>
+
 #### **QQ群**
 
 QQ群1：[61899799](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=T_btgrc1fmkp3Lq4qER1hWEQKrKCO6aZ&authKey=eKjWwGXwyDx%2Bepfvqt2kVnvcBLocuY2DHNbo17fidG1k%2B7OehtIWp1zvfH040kcD&noverify=0&group_code=61899799)  
@@ -18,26 +38,6 @@ QQ群1：[61899799](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=T_btgrc1fmkp3Lq4qE
 
     迅雷分享群1：<https://dlj.8uri.cn/dlj/97f434cd>  
     迅雷分享群2：<https://dlj.8uri.cn/dlj/b3863d17>  
-
-#### **资源网址（收藏）**
-
-* **永久防丢失页**（请收藏到书签）  
-    <https://link3.cc/hack>  
-
-* **资源博客地址**（每日更新这里）  
-     [https://www.haozy.top](https://www.haozy.top/)  
-
-* **在线资源文档**（不定期添加资源）  
-    金山：<https://www.kdocs.cn/l/cvtEtEgmLTaZ>  
-    腾讯：<https://docs.qq.com/aio/DY2FqUFRrWXpxaUJY>  
-
-* **旧站**（无更新打算）  
-    [https://hao.netlify.app](https://hao.netlify.app/)  
-    [https://aiyyds.cn.eu.org](https://aiyyds.cn.eu.org/)  
-    [https://alyp.eu.org](https://alyp.eu.org/)  
-
- * 阿里云盘 1年容量延期卡-50T容量.参加活动获得 点此链接报名参加  
-    <https://pages.aliyundrive.com/mobile-page/web/signup.html?code=e24ef67>
 
 <!-- tabs:end -->
 
