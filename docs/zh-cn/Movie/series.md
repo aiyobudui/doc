@@ -5,13 +5,20 @@
 
 阿里：<https://www.aliyundrive.com/s/3bqU2fjR8XD>
 
+#### 张国荣作品合集 4K超清 多配音无删减无水印 音乐+演唱会合集
+
+夸克：https://pan.quark.cn/s/db8771f7f7d4
+
+迅雷：https://pan.xunlei.com/s/VNueJIIMjZPkwgg2hTVfo8m2A1?pwd=eg2b#
+
+
 #### 豆瓣TOP250 4K REMUX 合集
 
-夸克：<https://pan.quark.cn/s/fc66ac9ef380> 1080P蓝光 国英音轨 特效字幕
+夸克：<https://pan.quark.cn/s/fc66ac9ef380>  1080P蓝光 国英音轨 特效字幕
 
-迅雷：[https://pan.xunlei.com/s/VNttWybulTPBQmNEXIsVg8i1A1?pwd=qpgd#](https://pan.xunlei.com/s/VNttWybulTPBQmNEXIsVg8i1A1?pwd=qpgd#)
+迅雷：https://pan.xunlei.com/s/VNttWybulTPBQmNEXIsVg8i1A1?pwd=qpgd#
 
-阿里：<https://www.alipan.com/s/4LWbvEJqh7z> 4K REMUX
+阿里：<https://www.alipan.com/s/4LWbvEJqh7z>      4K 原盘REMUX
 
 #### 世界名著改编电影合集 以世界文学名著为蓝本拍摄的电影
 
@@ -37,7 +44,7 @@
 
 夸克：<https://pan.quark.cn/s/80dfd08a494d>
 
-迅雷：[https://pan.xunlei.com/s/VNo6VxvcLWH3wa_PUiq2pkE0A1?pwd=tzqr#](https://pan.xunlei.com/s/VNo6VxvcLWH3wa_PUiq2pkE0A1?pwd=tzqr#)
+迅雷：https://pan.xunlei.com/s/VNo6VxvcLWH3wa_PUiq2pkE0A1?pwd=tzqr#
 
 阿里：<https://www.aliyundrive.com/s/ZhH5CQQGG34>
 
@@ -45,7 +52,7 @@
 
 夸克：<https://pan.quark.cn/s/605a1623a5c5>
 
-迅雷：[https://pan.xunlei.com/s/VNnhuNsEcC5GDDjZ8yPqueqjA1?pwd=wwws#](https://pan.xunlei.com/s/VNnhuNsEcC5GDDjZ8yPqueqjA1?pwd=wwws#)
+迅雷：https://pan.xunlei.com/s/VNnhuNsEcC5GDDjZ8yPqueqjA1?pwd=wwws#
 
 阿里：<https://www.aliyundrive.com/s/ymbLt4TsVUS>
 
@@ -53,7 +60,7 @@
 
 夸克：<https://pan.quark.cn/s/cf65dcf0fe6c>
 
-迅雷：[https://pan.xunlei.com/s/VNrppp9cduEMJOa6T76_-uhEA1?pwd=vr2b#](https://pan.xunlei.com/s/VNrppp9cduEMJOa6T76_-uhEA1?pwd=vr2b#)
+迅雷：https://pan.xunlei.com/s/VNrppp9cduEMJOa6T76_-uhEA1?pwd=vr2b#
 
 #### 独立日. 2部 蓝光 4K REMUX原盘
 

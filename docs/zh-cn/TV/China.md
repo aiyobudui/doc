@@ -6,7 +6,7 @@
 
 夸克：<https://pan.quark.cn/g/7f40fd8b36>
 
-迅雷：[https://pan.xunlei.com/s/VNlXKoDXt89JuXWy9y6HwVj3A1?pwd=w5i8#](https://pan.xunlei.com/s/VNlXKoDXt89JuXWy9y6HwVj3A1?pwd=w5i8#)
+迅雷：<https://pan.xunlei.com/s/VNlXKoDXt89JuXWy9y6HwVj3A1?pwd=w5i8#>
 
 ---
 
@@ -28,7 +28,13 @@
 
 百度：<https://pan.baidu.com/s/1U8QHWMqoETeK42VaaGQnCg?pwd=0000>
 
- #### 花间令（2024）4K 32集更新中
+
+
+----
+
+## 已完结的...
+
+ #### 花间令（2024）4K 32集全
 
 夸克：<https://pan.quark.cn/s/56e0da6107ae>
 
@@ -36,23 +42,19 @@
 
 百度：<https://pan.baidu.com/s/1ca-XoAWkORE4ebrgDbPcIA?pwd=5268>
 
- #### 烈焰（2024）4K 40集更新中
+ #### 烈焰（2024）4K 40集全
 
 夸克：<https://pan.quark.cn/s/693c1511e52c>
 
-迅雷：[https://pan.xunlei.com/s/VNtGb1C2QeHnB3L2W7Cd9SdjA1?pwd=465g#](https://pan.xunlei.com/s/VNtGb1C2QeHnB3L2W7Cd9SdjA1?pwd=465g#)
+迅雷：<https://pan.xunlei.com/s/VNtGb1C2QeHnB3L2W7Cd9SdjA1?pwd=465g#>
 
- #### 欢乐颂5（2024）4K 更新中 江疏影 杨采钰 附1-4季
+ #### 欢乐颂5（2024）4K 1-5部全
 
 夸克：<https://pan.quark.cn/s/551c673288a5>
 
-迅雷：[https://pan.xunlei.com/s/VNt6k2ypuKawNMFsbSl2Ifz2A1?pwd=n3h3#](https://pan.xunlei.com/s/VNt6k2ypuKawNMFsbSl2Ifz2A1?pwd=n3h3#)
+迅雷：<https://pan.xunlei.com/s/VNt6k2ypuKawNMFsbSl2Ifz2A1?pwd=n3h3#>
 
 百度：<https://pan.baidu.com/s/1EgjkzzXIeM8Qx5BdrNxm1w?pwd=0000>
-
-----
-
-## 已完结的...
 
  #### 三体 4K 周年导演剪辑版（2024）+ 杜比视界版
 

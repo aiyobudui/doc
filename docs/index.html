@@ -22,7 +22,7 @@
   <!-- 自定义主题样式 -->
   <style>
     :root {
-      --base-font-size: 14.4px;
+      --base-font-size: 15px;
 
       /*设置菜单按钮的颜色*/
       --sidebar-toggle-background: #ff5959;
@@ -41,25 +41,25 @@
       }
 
       aside.sidebar ul li ul {
-        margin: 6px 0;
+        margin: 0px 16px;
       }
 
       aside.sidebar ul li p {
         padding-left: 22px;
-        font-size: 16px;
+        font-size: 22px;
         font-weight: normal;
       }
 
       aside.sidebar ul li a {
-        line-height: 30px;
+        line-height: 33px;
         /* 导航栏字体间距 */
-        font-size: 14.4px;
+        font-size: 15px;
         /* 导航栏字体大小 */
         padding: 3px 0 3px 22px;
       }
 
       aside.sidebar ul li.active>a {
-        font-size: 15.6px !important;
+        font-size: 18px !important;
       }
 
       aside.sidebar ul li.active>a:before {
@@ -151,10 +151,10 @@
           '/get-started', // => /get-started.md
           '/zh-cn/',      // => /zh-cn/README.md
         ],
-        depth: 6,                          // 搜索标题的最大层级, 1 - 6
-        noData: "找不到结果，换个搜索词试试？或者联系站长补充资源。", //
+        depth: 4,                          // 搜索标题的最大层级, 1 - 6
+        noData: "没有搜到，换个搜索词试试？或联系站长上资源。", //
         placeholder: " 搜 索 ",            // 搜索框的提示
-        maxAge: 86400000,                  // 过期时间，单位毫秒，默认一天
+        maxAge: 43200000,                  // 过期时间，单位毫秒，默认一天
           // todo 这个数组是执行脚本得到的，不需要人工修改，具体请查看 gulpfile.js
           /*gulp*/paths: [],
         // 允许创建的搜索索引块，定位到 6 级标题

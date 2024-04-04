@@ -8,21 +8,23 @@
 
 夸克：<https://pan.quark.cn/s/83fa7db14991>
 
-迅雷：[https://pan.xunlei.com/s/VNu-ivUSvo4-iDPZHrvTbCkbA1?pwd=tvda#](https://pan.xunlei.com/s/VNu-ivUSvo4-iDPZHrvTbCkbA1?pwd=tvda#)
+迅雷：<https://pan.xunlei.com/s/VNu-ivUSvo4-iDPZHrvTbCkbA1?pwd=tvda#>
 
 百度：<https://pan.baidu.com/s/14hYvpDcEkff22pAMSK3rJg?pwd=v9mr>
 
-#### 篡位（2024）12集更新中
 
-夸克：<https://pan.quark.cn/s/3cbec74f49c5>
-
-迅雷：[https://pan.xunlei.com/s/VNu-lJl8TaYP1AJ1j4_Ll4cCA1?pwd=xuw9#](https://pan.xunlei.com/s/VNu-lJl8TaYP1AJ1j4_Ll4cCA1?pwd=xuw9#)
-
-百度：<https://pan.baidu.com/s/1ASB9grmXNSaXc4WuK1MPhQ?pwd=5268>
 
 ----
 
 ## 已完结的...
+
+#### 篡位（2024）12集全 韩语中字
+
+夸克：<https://pan.quark.cn/s/3cbec74f49c5>
+
+迅雷：<https://pan.xunlei.com/s/VNu-lJl8TaYP1AJ1j4_Ll4cCA1?pwd=xuw9#>
+
+百度：<https://pan.baidu.com/s/1ASB9grmXNSaXc4WuK1MPhQ?pwd=5268>
 
 #### 财阀X刑警（2024）第一季 16集全
 
