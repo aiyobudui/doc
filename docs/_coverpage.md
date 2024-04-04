@@ -1,6 +1,9 @@
 <!-- _coverpage.md -->
 
-<img src="assets\img\1.gif">
+
+![logo](assets\img\1.gif ':size=WIDTHxHEIGHT')
+
+
 
 # 对酒当歌分享 <small>下拉</small>
 
@@ -12,4 +15,5 @@
 
 [QQ群](https://qm.qq.com/q/4bJ9hEzh3y)
 [B站](https://space.bilibili.com/118765586)
+[留言板](zh-cn/留言板)
 [进入](README)

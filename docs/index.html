@@ -7,6 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport"
     content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+  <!-- Docsify 手风琴 -->
+  <link rel="stylesheet" href="//unpkg.com/docsify-accordion/src/style.css">
 
   <!-- 网站描述+关键字+作者 -->
   <meta name="description" content="对酒当歌分享">
@@ -14,10 +16,17 @@
   <link rel="stylesheet" href="assets/css/main.css" />
   <link rel="stylesheet" href="assets/css/theme-simple.css">
 
+
+
+
   <!-- 自定义主题样式 -->
   <style>
     :root {
-      --base-font-size: 15px;
+      --base-font-size: 14.5px;
+
+      /*设置tabs全局样式*/
+      --docsifytabs-border-color: #ededed;
+      --docsifytabs-tab-highlight-color: purple;
 
     }
   </style>
@@ -37,11 +46,12 @@
   <div id="app">正在加载中..</div>
   <script>
     window.$docsify = {
-      // docsify-留言板
+      // docsify-valine留言板 (defaults)
       Valine: {
+        el:'#vcomment',
         appId: 'c07LQPl4kvoHe374MmKvqP9C-gzGzoHsz',
         appKey: 'tNZelts8Qg0wzGjBBlUFHX7y',
-        // docPath: 'hash', //默认为散列，也可以选择full
+        docPath: 'hash', //default to `hash` ,or you can choose `full`
       },
 
       themeable: {
@@ -58,9 +68,6 @@
       // 只在访问主页时加载封面。
       onlyCover: false,
 
-      // 标题渲染成目录
-      maxLevel: 6,
-
       // 外部链接的打开方式。默认为 _blank 和 _self（在新窗口或者标签页中打开）
       externalLinkTarget: '_blank',
 
@@ -76,14 +83,13 @@
       // 标题H2一下才会被渲染
       subMaxLevel: 1,
 
+      // 标题渲染成目录
+      maxLevel: 1,
+
       // 切换页面后自动到顶部
       auto2top: true,
 
-
-
-      // PLUGINS
-      // ----------------------------------------------------------------
-      // 页面右侧toc
+      // 页面右侧toc插件
       toc: {
         tocMaxLevel: 2,
         target: "h2, h3, h4, h5, h6",
@@ -92,15 +98,19 @@
       // 在找不到指定页面时加载_404.md:
       notFoundPage: true,
 
-      // 全文搜索
+      // 指定搜索路径       默认值'auto',全文搜索
       search: {
-        search: 'auto',                    // 默认值
-        depth: 4,                          // 搜索标题的最大层级, 1 - 6
-        noData: "没有搜到!",
-        placeholder: " 搜 索 ",
+        search: [
+          '/guide',       // => /guide.md
+          '/get-started', // => /get-started.md
+          '/zh-cn/',      // => /zh-cn/README.md
+        ],
+        depth: 6,                          // 搜索标题的最大层级, 1 - 6
+        noData: "找不到结果，换个搜索词试试？或者联系站长补充资源。", //
+        placeholder: " 搜 索 ",            // 搜索框的提示
         maxAge: 86400000,                  // 过期时间，单位毫秒，默认一天
-
       },
+
       // 避免搜索索引冲突,同一域下的多个网站之间
       namespace: "website-1",
 
@@ -130,6 +140,7 @@
         tabComments: true, // default
         tabHeadings: true,// default
       },
+
       // 回到顶部
       scrollToTop: {
         auto: true,
@@ -156,11 +167,17 @@
           label: "切记"
         }
       },
+
     }
+
 
   </script>
 
   <script src="assets/js/main.js"></script>
+
+  <!-- 留言板功能 -->
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
 
   <!-- docsify的js依赖 + 谷歌统计 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js" data-ga='G-291R66VCRB'></script>
@@ -193,9 +210,48 @@
   <!-- 访问量统计 -->
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-  <!-- 留言板功能 -->
-  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-  <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
+  <!-- 支持 DOT 语言 -->
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/viz.js"></script>
+
+  <!-- 支持 LaTex 语言 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+
+  <!-- Docsify 手风琴 -->
+  <script src="//unpkg.com/docsify-accordion/src/index.js"></script>
+
+  <!-- 外链脚本插件 可以在.md中引用 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+
+  <!-- 在点击页面的时候出现爱心 -->
+  <script src="//cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/js/click_heart.js"></script>
+
+  <!-- 选项卡插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+
+
+  <!-- 代码块样式优化-->
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-c.js"></script>
+  <!--<script src="//unpkg.com/prismjs/components/prism-cpp.js"></script>-->
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-cpp.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-css.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-docker.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-java.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-javascript.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-json.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-latex.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-sql.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-markdown.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-bash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-php.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-scala.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-nginx.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-json.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-markdown.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/prism-python.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/js/prism-yaml.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/src/js/prism-go.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/src/js/prism-matlab.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
 
 
   <!-- 运行时间统计 -->
