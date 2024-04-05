@@ -48,6 +48,10 @@
 
 夸克：<https://pan.quark.cn/s/570c19954a3a>
 
+#### 《鬼屋魔影重制版》 v1.03 Hotfix 全DLC豪华中文版
+
+夸克：https://pan.quark.cn/s/570bc6aa7742
+
 #### 《信长之野望：新生》 威力加强版 v1.1.5 豪华中文版 全DLC 附预购特典
 
 夸克：<https://pan.quark.cn/s/5cf2239b0f88>
@@ -94,37 +98,37 @@
 
 夸克：<https://pan.quark.cn/s/fcb00fb1464d>
 
-迅雷：[https://pan.xunlei.com/s/VNtMX0e8DOoGPGHHM6g6n7PKA1?pwd=n5k6#](https://pan.xunlei.com/s/VNtMX0e8DOoGPGHHM6g6n7PKA1?pwd=n5k6#)
+迅雷：https://pan.xunlei.com/s/VNtMX0e8DOoGPGHHM6g6n7PKA1?pwd=n5k6#
 
 #### 《宝可梦 朱/紫》(v3.0.1整合版) 柚子模拟器教程 1DLC 海之秘宝前篇碧之
 
 夸克：<https://pan.quark.cn/s/17020f2096eb>
 
-迅雷：[https://pan.xunlei.com/s/VNt6c6Mn2Wgx-ReHrFjC7vb0A1?pwd=kh4w#](https://pan.xunlei.com/s/VNt6c6Mn2Wgx-ReHrFjC7vb0A1?pwd=kh4w#)
+迅雷：https://pan.xunlei.com/s/VNt6c6Mn2Wgx-ReHrFjC7vb0A1?pwd=kh4w#
 
 #### 《高仿宝可梦：科洛蒙》最新 中文版 版本号看链接
 
 夸克：<https://pan.quark.cn/s/ab0b38ee00ba>
 
-迅雷：[https://pan.xunlei.com/s/VNsxcYC91YjcwerBPklllpd_A1?pwd=hgty#](https://pan.xunlei.com/s/VNsxcYC91YjcwerBPklllpd_A1?pwd=hgty#)
+迅雷：https://pan.xunlei.com/s/VNsxcYC91YjcwerBPklllpd_A1?pwd=hgty#
 
 #### 《深岩银河：幸存者》最新版 解压即玩 版本号看文件名
 
 夸克：<https://pan.quark.cn/s/1574a3e84da2>
 
-迅雷：[https://pan.xunlei.com/s/VNqqbTvcFJ9XqL05KHqTrSDVA1?pwd=w2z5#](https://pan.xunlei.com/s/VNqqbTvcFJ9XqL05KHqTrSDVA1?pwd=w2z5#)
+迅雷：https://pan.xunlei.com/s/VNqqbTvcFJ9XqL05KHqTrSDVA1?pwd=w2z5#
 
 #### 《碧蓝幻想对战：崛起》 v1.12 豪华中文版 全DLC 新增路西法DLC
 
 夸克：<https://pan.quark.cn/s/d6996c72357d>
 
-迅雷：[https://pan.xunlei.com/s/VNr0uAf2dlNAeaaAiCg3G12nA1?pwd=8qpp#](https://pan.xunlei.com/s/VNr0uAf2dlNAeaaAiCg3G12nA1?pwd=8qpp#)
+迅雷：https://pan.xunlei.com/s/VNr0uAf2dlNAeaaAiCg3G12nA1?pwd=8qpp#
 
 #### 《超市模拟器》 v0.1.3 中文版
 
 夸克：<https://pan.quark.cn/s/87309d77c8c5>
 
-迅雷：[https://pan.xunlei.com/s/VNri90IcCAPiwlDMNmgWCYvLA1?pwd=btgj#](https://pan.xunlei.com/s/VNri90IcCAPiwlDMNmgWCYvLA1?pwd=btgj#)
+迅雷：https://pan.xunlei.com/s/VNri90IcCAPiwlDMNmgWCYvLA1?pwd=btgj#
 
 #### 《群星》 Stellaris v3.11.1.0 豪华中文版 全DLC+修改器+原画集
 
@@ -134,7 +138,7 @@
 
 夸克：<https://pan.quark.cn/s/d803a939941a>
 
-链接：[https://pan.xunlei.com/s/VNruQzJL0DgvRlnYMpjJ3PmWA1?pwd=s43f#](https://pan.xunlei.com/s/VNruQzJL0DgvRlnYMpjJ3PmWA1?pwd=s43f#)
+迅雷：https://pan.xunlei.com/s/VNruQzJL0DgvRlnYMpjJ3PmWA1?pwd=s43f#
 
 #### 《漫漫长夜》 V2.27 全DLC 豪华中文版
 
@@ -170,7 +174,7 @@
 
 #### 《极速骑行 Ride4》
 
-迅雷：[https://pan.xunlei.com/s/VNsXSF652xXE7z1fqHTBTkeMA1?pwd=in8n#](https://pan.xunlei.com/s/VNsXSF652xXE7z1fqHTBTkeMA1?pwd=in8n)
+迅雷：https://pan.xunlei.com/s/VNsXSF652xXE7z1fqHTBTkeMA1?pwd=in8n#
 
 #### 《缺氧：眼冒金星》 最新 豪华中文版 全DLC 新增水落食出DLC 版本号看文件名
 
@@ -180,7 +184,7 @@
 
 夸克：<https://pan.quark.cn/s/df9361fe100f>
 
-迅雷：[https://pan.xunlei.com/s/VNrjVQyU7H_QU0Z11ps8Fj-SA1?pwd=nxab#](https://pan.xunlei.com/s/VNrjVQyU7H_QU0Z11ps8Fj-SA1?pwd=nxab#)
+迅雷：https://pan.xunlei.com/s/VNrjVQyU7H_QU0Z11ps8Fj-SA1?pwd=nxab#
 
 #### 《纸人：第一章》恐怖游戏
 
@@ -463,6 +467,7 @@
 夸克：<https://pan.quark.cn/s/461e83c7a22f>
 
 迅雷：<https://pan.xunlei.com/s/VNqw_8mbzZt9sWTk5IbpXZHOA1?pwd=ai5w#>
+
 #### 《仙剑奇侠传》 1-7合集 PC版
 
 迅雷：<https://pan.xunlei.com/s/VNtCoYUu4a0aV6_YUASVnrPIA1?pwd=ju4f#>
@@ -517,25 +522,25 @@
 
 #### 《ATRL -Mydearmoment- 》DARKSiDERS 亚托莉我的挚爱时光
 
-迅雷：[https://pan.xunlei.com/s/VNq3kZYl9dh83vEbcVItEr4eA1?pwd=p8p5#](https://pan.xunlei.com/s/VNq3kZYl9dh83vEbcVItEr4eA1?pwd=p8p5)
+迅雷：https://pan.xunlei.com/s/VNq3kZYl9dh83vEbcVItEr4eA1?pwd=p8p5#
 
 #### 《死亡细胞》v35.7 豪华中文+全DLC+全解锁存档+修改器+原声音乐 支持手柄 解压即玩 重生细胞
 
 夸克：<https://pan.quark.cn/s/f77ca01ca966>
 
-迅雷：[https://pan.xunlei.com/s/VNq30YIo9jq75Ea01kpT-6ovA1?pwd=v5bh#](https://pan.xunlei.com/s/VNq30YIo9jq75Ea01kpT-6ovA1?pwd=v5bh#)
+迅雷：https://pan.xunlei.com/s/VNq30YIo9jq75Ea01kpT-6ovA1?pwd=v5bh#
 
 #### 《觅长生》 v1.0.038 中文版
 
 夸克：<https://pan.quark.cn/s/203b2cc3e6bb>
 
-迅雷：[https://pan.xunlei.com/s/VNpwgaF3jiKYJBnlsAPipfj3A1?pwd=vrvh#](https://pan.xunlei.com/s/VNpwgaF3jiKYJBnlsAPipfj3A1?pwd=vrvh#)
+迅雷：https://pan.xunlei.com/s/VNpwgaF3jiKYJBnlsAPipfj3A1?pwd=vrvh#
 
 #### 《木筏求生》 v1.09 联机中文版
 
 夸克：<https://pan.quark.cn/s/275cb0898545>
 
-迅雷：[https://pan.xunlei.com/s/VNpu4vGgV5tOoEsI5Z5YPsxLA1?pwd=eja9#](https://pan.xunlei.com/s/VNpu4vGgV5tOoEsI5Z5YPsxLA1?pwd=eja9#)
+迅雷：https://pan.xunlei.com/s/VNpu4vGgV5tOoEsI5Z5YPsxLA1?pwd=eja9#
 
 #### 《荒岛求生》Stranded Deep v1.0.31.0.25 汉化版
 
@@ -927,7 +932,7 @@
 
 夸克：<https://pan.quark.cn/s/fffb8d51a2a0>
 
-迅雷：[https://pan.xunlei.com/s/VNsZ2CduuoL4-yUgyAAI-YoDA1?pwd=u688#](https://pan.xunlei.com/s/VNsZ2CduuoL4-yUgyAAI-YoDA1?pwd=u688#)
+迅雷：https://pan.xunlei.com/s/VNsZ2CduuoL4-yUgyAAI-YoDA1?pwd=u688#
 
 #### 《奥日与萤火意志 精灵意志》 最新版 附：修改器+全收集存档+学习补丁+原声音乐
 
@@ -953,7 +958,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNta8pOaFDx9QvHxz05Qd0oYA1?pwd=vpjn#
 
-#### 《星之卡比》wii 豪华版 附模拟器 附模拟器
+#### 《星之卡比 wii 豪华版》 附模拟器
 
 夸克：<https://pan.quark.cn/s/89a8e4692f06>
 
@@ -961,7 +966,7 @@
 
 百度：https://pan.baidu.com/s/1DPpUwggtV9dS41DTzrLEJA?pwd=0000
 
-#### 《星之卡比》 合集
+#### 《星之卡比》 其他合集
 
 夸克：<https://pan.quark.cn/s/9fc21aee9e49>
 
@@ -975,13 +980,13 @@
 
 夸克：<https://pan.quark.cn/s/d73ea3281d2d>
 
-迅雷：[https://pan.xunlei.com/s/VNobRQdnKfq6HcqoCkBcQ9mDA1?pwd=unh3#](https://pan.xunlei.com/s/VNobRQdnKfq6HcqoCkBcQ9mDA1?pwd=unh3#)
+迅雷：https://pan.xunlei.com/s/VNobRQdnKfq6HcqoCkBcQ9mDA1?pwd=unh3#
 
 #### 《最后的生还者》 重制版 v1.1.2
 
 夸克：<https://pan.quark.cn/s/0c85831fd097>
 
-迅雷：[https://pan.xunlei.com/s/VNobS--BYgvmW-SB-fHXvnODA1?pwd=vtus#](https://pan.xunlei.com/s/VNobS--BYgvmW-SB-fHXvnODA1?pwd=vtus#)
+迅雷：https://pan.xunlei.com/s/VNobS--BYgvmW-SB-fHXvnODA1?pwd=vtus#
 
 #### 《潜水员戴夫》最新版 豪华中文版 全DLC 新增渔帆暗涌DLC+修改器
 
@@ -1077,29 +1082,29 @@
 
 #### 《车祸模拟器》Beam NG
 
-迅雷：[https://pan.xunlei.com/s/VNqrblqw29do9NGqTmEcwrqYA1?pwd=skz7#](https://pan.xunlei.com/s/VNqrblqw29do9NGqTmEcwrqYA1?pwd=skz7#)
+迅雷：https://pan.xunlei.com/s/VNqrblqw29do9NGqTmEcwrqYA1?pwd=skz7#
 
 #### 《鬼谷八荒》最新版 全DLC
 
 夸克：<https://pan.quark.cn/s/bce026de054b>
 
-迅雷：[https://pan.xunlei.com/s/VNquonrMNI_pwCcqomUujexGA1?pwd=h7ny#](https://pan.xunlei.com/s/VNquonrMNI_pwCcqomUujexGA1?pwd=h7ny#)
+迅雷：https://pan.xunlei.com/s/VNquonrMNI_pwCcqomUujexGA1?pwd=h7ny#
 
 #### 《魔法门之黑兽战士》 Build.12627227 中文版 全DLC
 
-迅雷：[https://pan.xunlei.com/s/VNr9TLKb7Qq8i0e-tzQqEPa4A1?pwd=xu35#](https://pan.xunlei.com/s/VNr9TLKb7Qq8i0e-tzQqEPa4A1?pwd=xu35#)
+迅雷：https://pan.xunlei.com/s/VNr9TLKb7Qq8i0e-tzQqEPa4A1?pwd=xu35#
 
 #### 《街机游戏合集》月光宝盒千机变版
 
-夸克：[https://pan.xunlei.com/s/VNsYa15Lv3bE1d3xslcBwk54A1?pwd=tba8#](https://pan.xunlei.com/s/VNsYa15Lv3bE1d3xslcBwk54A1?pwd=tba8)
+夸克：https://pan.xunlei.com/s/VNsYa15Lv3bE1d3xslcBwk54A1?pwd=tba8#
 
 #### 《街霸5》中文版 需要WIN10以上系统支持
 
-链接：[https://pan.xunlei.com/s/VNsYa92PAYZi1dRMKLmjZPWXA1?pwd=gyy9#](https://pan.xunlei.com/s/VNsYa92PAYZi1dRMKLmjZPWXA1?pwd=gyy9)
+迅雷：https://pan.xunlei.com/s/VNsYa92PAYZi1dRMKLmjZPWXA1?pwd=gyy9#
 
 #### 《暖雪》Warm Snow v3.1.0.1 豪华中文版 全DLC 新增终业DLC
 
-迅雷：[https://pan.xunlei.com/s/VNt5RT3X-FPbkx1M9mCTP0NEA1?pwd=nawh#](https://pan.xunlei.com/s/VNt5RT3X-FPbkx1M9mCTP0NEA1?pwd=nawh#)
+迅雷：https://pan.xunlei.com/s/VNt5RT3X-FPbkx1M9mCTP0NEA1?pwd=nawh#
 
 #### 《异星指令》 v1.3.8 中文版
 
@@ -1131,15 +1136,6 @@
 
 夸克：<https://pan.quark.cn/s/c87dc92cc391>
 
-#### 《勇者斗恶龙创世小玩家》阿雷夫加尔德复兴记 v1.0.1 中文版
-
-夸克：<https://pan.quark.cn/s/cfb1a7919d14>
-
-#### 《勇者斗恶龙 创世小玩家2》最新 中文版 v1.7.3a
-
-夸克：<https://pan.quark.cn/s/4f0f032f78ca>
-
-迅雷：[https://pan.xunlei.com/s/VNtedJfEj846VJQ5OdDj8k6JA1?pwd=4av2#](https://pan.xunlei.com/s/VNtedJfEj846VJQ5OdDj8k6JA1?pwd=4av2#)
 
 #### 《终极钓鱼模拟器》 v2.3.23.12：212 豪华中文版 全DLC 新增佛罗里达州DLC
 
@@ -1172,6 +1168,8 @@
 夸克：<https://pan.quark.cn/s/d297fd254daf>
 
 迅雷：https://pan.xunlei.com/s/VNtk-zvMNr2y03iJ9JmPgrHTA1?pwd=qdse#
+
+百度：https://pan.baidu.com/s/1E7LlTRk7OVw4mskNkmWzEg?pwd=0000
 
 #### 《末日准备狂》v1.31j 全DLC 豪华中文版
 
@@ -1206,3 +1204,31 @@
 迅雷：https://pan.xunlei.com/s/VNttNSKhTXVAZexRrfO-fkKIA1?pwd=kkc5#
 
 百度：<https://pan.baidu.com/s/1NKNY2xb8oNAVWygfo0wgnQ?pwd=0000>
+
+#### 《勇者斗恶龙创世小玩家》阿雷夫加尔德复兴记 v1.0.1 中文版
+
+夸克：<https://pan.quark.cn/s/cfb1a7919d14>
+
+#### 《勇者斗恶龙 创世小玩家2》最新 中文版 v1.7.3a
+
+夸克：<https://pan.quark.cn/s/4f0f032f78ca>
+
+迅雷：https://pan.xunlei.com/s/VNtedJfEj846VJQ5OdDj8k6JA1?pwd=4av2#
+
+#### 《无限神速斩 勇者斗恶龙 达伊的大冒险》 最新 中文版
+
+夸克：https://pan.quark.cn/s/1e9587f06d68
+
+迅雷：https://pan.xunlei.com/s/VNuhL5Nwn1yRRTmaNOK5oJlrA1?pwd=gs8x#
+
+百度：https://pan.baidu.com/s/1FXYMaof3wMGN4kTWgwZN_w?pwd=0000
+
+#### 《勇者斗恶龙 寻宝探险团 蓝色眼眸与天空罗盘》全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/01f0d30c56dc
+
+迅雷：https://pan.xunlei.com/s/VNuhN-7aEfRzwNZvHCyDuUnzA1?pwd=2tnc#
+
+百度：https://pan.baidu.com/s/1bEfAGxa7f37cMvSuypVBFA?pwd=0000
+
+
