@@ -92,6 +92,48 @@
   <div id="app">正在加载中..</div>
   <script>
     window.$docsify = {
+      //通用设置
+      // -----------------------------------------------------
+      // 加载自定义导航栏,需要目录下有_navbar.md文件
+      loadNavbar: true,
+      // 开启侧边栏，需要目录下有_sidebar.md文件
+      loadSidebar: true,
+      alias: {
+        "/.*/_sidebar.md": "/_sidebar.md",
+      },
+      // 标题H2一下才会被渲染
+      subMaxLevel: 2,
+      // 标题渲染成目录
+      maxLevel: 1,
+      // 切换页面后自动到顶部
+      auto2top: true,
+      // 指定开始页
+      homepage: 'README.md',
+      // 启用封面页 默认值: false 开启后是加载 _coverpage.md 文件
+      coverpage: true,
+      // 侧边栏左侧的logo
+      logo: '',
+      // 侧边栏顶部的标题
+      name: '<span>对酒当歌分享</span>',
+      // 点击标题后的跳转地址
+      nameLink: '/',
+      // 禁用emoji
+      noEmoji: true,
+      // 移动设备合并导航栏到侧边栏
+      mergeNavbar: true,
+      // 在找不到指定页面时加载_404.md:
+      notFoundPage: true,
+      // 让你的内容页在滚动到指定的锚点时，距离页面顶部有一定空间。当你使用 固定页头 布局时这个选项很有用，可以让你的锚点对齐标题栏。
+      topMargin: 60,
+      // 只在访问主页时加载封面。
+      onlyCover: false,
+      // 外部链接的打开方式。默认为 _blank 和 _self（在新窗口或者标签页中打开）
+      externalLinkTarget: '_blank',
+      // 替换主题色。利用 CSS3 支持变量的特性，对于老的浏览器有 polyfill 处理。
+      themeColor: '#3F51B5',
+
+      //插件设置
+      // -----------------------------------------------------
       // docsify-valine留言板 (defaults)
       Valine: {
         el: '#vcomment',
@@ -99,84 +141,27 @@
         appKey: 'tNZelts8Qg0wzGjBBlUFHX7y',
         docPath: 'hash', //default to `hash` ,or you can choose `full`
       },
-
-      themeable: {
-        readyTransition: true, // default 显示淡入淡出过渡
-        responsiveTables: true, // default 较小的屏幕上显示为响应式表
-      },
-      name: '<span>对酒当歌分享</span>',
-      repo: '',
-      el: '#app',
-
-      // 启用封面页 默认值: false 开启后是加载 _coverpage.md 文件
-      coverpage: true,
-
-      // 只在访问主页时加载封面。
-      onlyCover: false,
-
-      // 外部链接的打开方式。默认为 _blank 和 _self（在新窗口或者标签页中打开）
-      externalLinkTarget: '_blank',
-
-      // 替换主题色。利用 CSS3 支持变量的特性，对于老的浏览器有 polyfill 处理。
-      themeColor: '#3F51B5',
-
-      // 侧边栏文档目录
-      loadSidebar: true,
-      alias: {
-        "/.*/_sidebar.md": "/_sidebar.md",
-      },
-
-      // 标题H2一下才会被渲染
-      subMaxLevel: 1,
-
-      // 标题渲染成目录
-      maxLevel: 1,
-
-      // 切换页面后自动到顶部
-      auto2top: true,
-
       // 页面右侧toc插件
       toc: {
         tocMaxLevel: 2,
         target: "h2, h3, h4, h5, h6",
       },
-
-      // 在找不到指定页面时加载_404.md:
-      notFoundPage: true,
-
-      // 指定搜索路径       默认值'auto',全文搜索
+      // 搜索配置
       search: {
-        search: 'auto',
-        depth: 4,                          // 搜索标题的最大层级, 1 - 6
-        noData: "没有搜到，换个搜索词试试？或联系站长上资源。", //
-        placeholder: " 搜 索 ",            // 搜索框的提示
-          // todo 这个数组是执行脚本得到的，不需要人工修改，具体请查看 gulpfile.js
-          /*gulp*/paths: [],
-        // 允许创建的搜索索引块，定位到 6 级标题
+        maxAge: 43200000,
+        paths: 'auto',                                      // 指定搜索路径       默认值'auto',全文搜索
+        placeholder: ' 搜 索 ',
+        noData: '没有搜到，换个搜索词试试？或联系站长上资源',
+        depth: 4,                                           // 搜索标题的最大层级, 1 - 6
+        hideOtherSidebarContent: false,
+        namespace: '对酒当歌分享'
       },
-
-      // 避免搜索索引冲突,同一域下的多个网站之间
-      namespace: "website-1",
-
-      // 使用不同的索引作为路径前缀（namespaces）
-      // 注意：仅适用于 paths: 'auto' 模式
-      //
-      // 初始化索引时，我们从侧边栏查找第一个路径
-      // 如果它与列表中的前缀匹配，我们将切换到相应的索引
-      pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
-
-      // 您可以提供一个正则表达式来匹配前缀。在这种情况下，
-      // 匹配到的字符串将被用来识别索引
-      pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/,
-
-      // 让你的内容页在滚动到指定的锚点时，距离页面顶部有一定空间。当你使用 固定页头 布局时这个选项很有用，可以让你的锚点对齐标题栏。
-      topMargin: 40, // default: 0
 
       // 页脚信息插件
       loadFooter: true,
       loadFooter: '_footer.md',
 
-      //选项卡设置
+      //选项卡插件设置
       tabs: {
         persist: true, // default
         sync: true, // default
@@ -194,9 +179,8 @@
         offset: 25
       },
 
-      // 文本高亮
+      // 文本高亮插件
       'flexible-alerts': {
-
         style: 'flat',
         note: {
           label: "信息"
@@ -211,6 +195,17 @@
           label: "切记"
         }
       },
+
+
+
+      themeable: {
+        readyTransition: true, // default 显示淡入淡出过渡
+        responsiveTables: true, // default 较小的屏幕上显示为响应式表
+      },
+
+      repo: '',
+      el: '#app',
+
 
     }
 
