@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0" />
+
+    <!-- 网站描述+基础SEO优化 -->
+    <title>对酒当歌分享 | 免费游戏资源下载站</title>
+    <meta name="description" content="对酒当歌分享 - 是一个资源分享的文档网站，有游戏、电影、电视剧、动漫等等" />
+    <meta name="keywords" content="一个资源分享的文档网站，有游戏、电影、电视剧、动漫等等、海量资源免费分享" />
+    <meta name="robots" content="index,follow,max-image-preview:large">
+    <!-- 社交媒体优化 -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="对酒当歌分享 | 海量免费游戏资源下载站">
+    <meta property="og:description" content="每日更新手工整理的游戏、电影、电视剧、动漫等">
+    <meta property="og:url" content="https://www.haozy.top/">
+    <meta property="og:site_name" content="对酒当歌分享">
+    <meta property="og:locale" content="zh_cn">
+
+    <!-- 规范链接 & Sitemap -->
+    <link rel="canonical" href="https://www.haozy.top/">
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="./favicon.ico">
+
+    <!-- 主题样式---->
+    <link rel="stylesheet" href="./assets/css/theme-simple.css" />
+
+    <!-- 封面样式 ---->
+    <link rel="stylesheet" href="./assets/css/docsify-vite-coverpage.css" />
+
+    <!-- Algolia验证 -->
+    <meta name="algolia-site-verification" content="709B5D5776F5B91C" />
+
+    <!-- 自定义主题样式 -->
+    <style>
+        /* 全局变量定义 */
+        :root {
+            /* 字体与尺寸 */
+            --base-font-size: 15px;
+            --content-max-width: 56em;
+            --sidebar-width: 16rem;
+            --sidebar-nav-margin: 1rem 0.1rem 0.1rem;
+
+            /* 颜色系统 */
+            --primary-color: #4155c4;
+            --secondary-color: #5e72e4;
+            --accent-color: #fed24a;
+            --shadow-color: rgba(50, 50, 93, 0.1);
+
+            /* 组件样式 */
+            --docsifytabs-border-color: #ededed;
+            --docsifytabs-tab-highlight-color: purple;
+            --heading-color: var(--primary-color);
+        }
+
+        /* 浮动猫咪元素 */
+        .floating-cat {
+            position: fixed;
+            top: 220px;
+            right: calc(50% - 560px);
+            /* 基于内容宽度的动态定位 */
+            width: 200px;
+            height: auto;
+            z-index: 1000;
+            transform: translatey(0px);
+            filter: drop-shadow(0px 5px 15px rgba(0, 0, 0, 0.6));
+            animation: float 6s ease-in-out infinite;
+            will-change: transform, filter;
+            /* 提示浏览器优化这些属性的动画 */
+        }
+
+        /* 浮动动画关键帧 */
+        @keyframes float {
+
+            0%,
+            100% {
+                transform: translatey(0px);
+                filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.6));
+            }
+
+            50% {
+                transform: translatey(-20px);
+                filter: drop-shadow(0px 25px 10px rgba(0, 0, 0, 0.2));
+            }
+        }
+
+
+        /* 移动端响应式调整 */
+        @media screen and (max-width: 768px) {
+
+            /* 标题字体调整 */
+            h1 {
+                font-size: 18px !important;
+            }
+
+            h2,
+            h3 {
+                font-size: 16px !important;
+            }
+
+            h4,
+            p {
+                font-size: 13px !important;
+            }
+
+            /* 主内容区调整 */
+            #main {
+                margin-top: 23px;
+                padding: 1rem;
+            }
+
+            /* 隐藏浮动元素 */
+            .floating-cat {
+                display: none !important;
+            }
+        }
+
+        /* 加载动画容器 */
+        #app {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            /* 改为视窗高度单位 */
+            font-size: clamp(24px, 8vw, 38px);
+            /* 响应式字体大小 */
+        }
+
+        /* 点状动画关键帧 */
+        @keyframes dot-animation {
+
+            0%,
+            50% {
+                opacity: 0.2;
+            }
+
+            25%,
+            75% {
+                opacity: 1;
+            }
+
+            100% {
+                opacity: 0.2;
+            }
+        }
+
+        /* 加载文本样式 */
+        .loading-text {
+            display: inline-block;
+            font-weight: bold;
+        }
+
+        /* 点状动画实现 */
+        .loading-text span {
+            display: inline-block;
+            animation: dot-animation 1.5s infinite ease-in-out;
+            margin: 0 2px;
+        }
+
+        .loading-text span:nth-child(1) {
+            animation-delay: 0.1s;
+        }
+
+        .loading-text span:nth-child(2) {
+            animation-delay: 0.3s;
+        }
+
+        .loading-text span:nth-child(3) {
+            animation-delay: 0.5s;
+        }
+
+        .loading-text span:nth-child(4) {
+            animation-delay: 0.7s;
+        }
+
+        /* 移动端专属优化 (≤768px) */
+        @media (max-width: 768px) {
+            #app {
+                min-height: 50vh;
+                /* 移动端减少高度 */
+                font-size: clamp(18px, 6vw, 24px);
+            }
+
+            .loading-text span {
+                animation-duration: 1.2s;
+                margin: 0 1px;
+            }
+        }
+
+        /* 标题目录栏 */
+        article>ul {
+            padding: 10px;
+            border: none;
+            box-shadow: 0 20px 55px var(--shadow-color),
+                0 0 1px rgba(0, 0, 0, 0.07);
+        }
+
+        /* 侧边栏阴影样式 */
+        aside.sidebar {
+            border: none;
+            box-shadow: 0 15px 35px var(--shadow-color),
+                0 5px 15px rgba(0, 0, 0, 0.07);
+        }
+
+        /* 侧边栏按钮样式 */
+        .sidebar-toggle .sidebar-toggle-button {
+            width: 4.1rem;
+            color: #530daf;
+            background: rgba(196, 8, 8, 0.27);
+            border-radius: 0 8px 8px 0;
+            box-shadow: 0 0.155rem 0.25rem rgba(12, 14, 4, 0.075);
+            transition: all 0.1s ease;
+        }
+
+        /* 侧边栏导航列表结构 */
+        aside.sidebar li {
+            margin: 0;
+            position: relative;
+            max-width: 900px;
+        }
+
+        /* 三级菜单缩进 */
+        .sidebar-nav>ul>li>ul>li>ul {
+            margin-left: 16px;
+        }
+
+        /* 侧边栏文本样式 */
+        aside.sidebar li p {
+            padding-left: 22px;
+            font-size: 22px;
+            font-weight: normal;
+        }
+
+        aside.sidebar li a {
+            padding: 3px 0 3px 22px;
+            font-size: var(--base-font-size);
+            line-height: 33px;
+        }
+
+        /* 侧边栏激活状态指示器 */
+        aside.sidebar li.active>a {
+            font-size: 18px;
+        }
+
+        /* 侧边栏a:before效果 */
+        aside.sidebar ul li.active>a:before {
+            content: '' !important;
+            position: absolute !important;
+            top: 15px !important;
+            left: 0 !important;
+            width: 10px !important;
+            height: 10px !important;
+            margin: 0 !important;
+            background-color: var(--accent-color);
+            border-radius: 50% !important;
+            box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important;
+        }
+
+        /* 主内容区域 */
+        #main {
+            padding-top: 20px;
+            box-shadow: 0 15px 300px 20px var(--shadow-color),
+                0 10px 15px rgba(0, 0, 0, 0.07);
+        }
+
+        /* 提示框样式 */
+        p.tip,
+        blockquote {
+            border-radius: 1px !important;
+        }
+
+        /* 链接样式 */
+        .markdown-section p a,
+        .markdown-section ul a,
+        #edit-history a {
+            position: relative;
+            color: var(--theme-color) !important;
+            text-decoration: none !important;
+        }
+
+        /* 链接下划线动画 */
+        .markdown-section p a:before,
+        .markdown-section ul a:before,
+        #edit-history a:before {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 1px;
+            background-color: var(--secondary-color);
+            transform: scaleX(0);
+            transition: transform 0.8s ease;
+            backface-visibility: hidden;
+        }
+
+        .markdown-section p a:hover:before,
+        .markdown-section ul a:hover:before,
+        #edit-history a:hover:before {
+            transform: scaleX(1);
+        }
+
+        /* 标题样式 */
+        .markdown-section h1,
+        .markdown-section h2,
+        .markdown-section h3,
+        .markdown-section h4 {
+            position: relative;
+            padding: 0;
+            border: none;
+        }
+
+        .markdown-section h1,
+        .markdown-section h2,
+        .markdown-section h3 {
+            font-weight: 545;
+        }
+
+        .markdown-section h4 {
+            padding-top: 1.8rem;
+            color: #5e4ef5;
+        }
+
+        /* 隐藏标题链接 */
+        .markdown-section h1 a,
+        .markdown-section h2 a,
+        .markdown-section h3 a,
+        .markdown-section h4 a {
+            text-decoration: none !important;
+        }
+
+        /* 标题装饰条 */
+        .markdown-section h1:after,
+        .markdown-section h2:after,
+        .markdown-section h3:after,
+        .markdown-section h4:after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: -3px;
+            display: block;
+            border-radius: 15px;
+            background: var(--secondary-color);
+            opacity: 0.25;
+            pointer-events: none;
+        }
+
+        .markdown-section h1:after {
+            width: 45px;
+            height: 13px;
+        }
+
+        .markdown-section h2:after {
+            width: 40px;
+            height: 9px;
+        }
+
+        .markdown-section h3:after {
+            width: 30px;
+            height: 7px;
+        }
+
+        .markdown-section h4:after {
+            width: 70px;
+            height: 2px;
+            background: #f1bcbc;
+            opacity: 1;
+        }
+
+        /* 极简动态醒目搜索框 */
+        .search input {
+            width: 100%;
+            padding: 12px 20px;
+            font-size: 16px;
+            border: 2px solid #42b983;
+            border-radius: 8px;
+            outline: none;
+            animation: pulseBorder 2s infinite;
+        }
+
+        @keyframes pulseBorder {
+            0% {
+                box-shadow: 0 0 0 0 rgba(4, 47, 236, 0.7);
+            }
+
+            70% {
+                box-shadow: 0 0 0 10px rgba(66, 185, 131, 0);
+            }
+
+            100% {
+                box-shadow: 0 0 0 0 rgba(66, 185, 131, 0);
+            }
+        }
+
+        .search input:focus {
+            animation: none;
+            border-color: #267c58;
+            box-shadow: 0 0 0 3px rgba(66, 185, 131, 0.5);
+        }
+
+        /* 侧边栏重置按钮样式 */
+        .sidebar-toggle-button {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            width: auto;
+            height: auto;
+            background: none;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            z-index: 99;
+        }
+
+        /* 隐藏默认图标 */
+        .sidebar-toggle-button span {
+            display: none;
+        }
+
+        /* 添加"菜单"文字 */
+        .sidebar-toggle-button::after {
+            content: "菜 单";
+            color: #d12a32;
+            font-size: 12px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        /* 悬停效果 */
+        .sidebar-toggle-button:hover::after {
+            color: #251ab6;
+            text-decoration: underline;
+        }
+
+        /* 侧边栏打开时的样式 */
+        body.close .sidebar-toggle-button::after {
+            content: "菜 单";
+        }
+
+        /* .MD里面的导航条样式 - 响应式设计 */
+        .markdown-section .game-nav {
+            display: flex;
+            gap: 15px;
+            margin: 25px 0;
+            flex-wrap: wrap;
+        }
+
+        /* 导航按钮基础样式 */
+        .markdown-section .game-nav-btn {
+            /* 布局 */
+            padding: 10px 20px;
+            box-sizing: border-box;
+
+            /* 视觉样式 */
+            background: #f0f3f9;
+            color: #240e9e;
+            text-decoration: none;
+            border-radius: 6px;
+            border: 1px solid #d0d7de;
+
+            /* 文字 */
+            font-weight: 600;
+            font-size: 14px;
+
+            /* 交互 */
+            transition:
+                background-color 0.2s ease,
+                border-color 0.2s ease;
+
+            /* 移动端优化 */
+            white-space: nowrap;
+        }
+
+        /* 悬停状态 */
+        .markdown-section .game-nav-btn:hover {
+            background: #e1e7ed;
+            border-color: #afb8c1;
+        }
+
+        /* 移动端适配 (≤768px) */
+        @media (max-width: 768px) {
+            .markdown-section .game-nav {
+                gap: 10px;
+                margin: 15px 0;
+                overflow-x: auto;
+                padding-bottom: 8px;
+                /* 为滚动条留空间 */
+                scroll-snap-type: x proximity;
+                /* 已废弃但iOS仍需 */
+            }
+
+            .markdown-section .game-nav-btn {
+                padding: 8px 12px;
+                font-size: 13px;
+                scroll-snap-align: start;
+                flex: 0 0 auto;
+                /* 禁止伸缩 */
+            }
+
+            /* 隐藏滚动条 (无警告方案) */
+            .markdown-section .game-nav::-webkit-scrollbar {
+                width: 0;
+                height: 0;
+            }
+        }
+
+        /* 超小屏幕优化 (≤480px) */
+        @media (max-width: 480px) {
+            .markdown-section .game-nav {
+                gap: 8px;
+            }
+
+            .markdown-section .game-nav-btn {
+                padding: 8px 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <span class="loading-text">正在加载中<span>.</span><span>.</span><span>.</span><span>.</span></span>
+    </div>
+    <script>
+        window.$docsify = {
+            homepage: 'home.md', //设置主页
+            notFoundPage: { '/': '_404.md', },  // 显式指定路径在找不到指定页面时加载_404.md:
+            loadFooter: '_footer.md',           // 页脚信息插件
+            loadNavbar: true,                   // 加载自定义导航栏,需要目录下有_navbar.md文件
+            ga: 'G-291R66VCRB',     // 谷歌分析ID
+            repo: '',
+            el: '#app',             // 加载动画
+            loadSidebar: true,      // 开启侧边栏，需要目录下有_sidebar.md文件
+            autoHeader: false,      // 自动为每个页面增加标题。
+            subMaxLevel: 1,         // 标题H1一下才会被渲染
+            maxLevel: 3,            // 最大支持渲染的标题层级
+            auto2top: true,         // 切换页面后自动到顶部
+            coverpage: true,        // 启用封面页 默认值: false 开启后是加载 _coverpage.md 文件
+            logo: '',               // 侧边栏左侧的logo
+            name: '对酒当歌分享',     // 侧边栏顶部的标题
+            nameLink: '/',          // 点击标题后的跳转地址
+            noEmoji: true,          // 禁用emoji
+            mergeNavbar: true,      // 导航栏将与较小屏幕上的侧边栏合并
+            topMargin: 90,          // 内容滚动到指定锚点时，距离页面顶部有一定空间。当你使用固定页头布局时这个选项很有用，可以让锚点对齐标题栏
+            onlyCover: true,                // 只在访问主页时加载封面。
+            externalLinkTarget: '_blank',   // 以打开右上角的外部链接。默认（新窗口/选项卡）'_blank' 和 _self
+            themeColor: '#18256d',          // 替换主题色。利用 CSS3 支持变量的特性，对于老的浏览器有 polyfill 处理。
+
+            // 缓存1天，浏览器或 CDN 会根据缓存资源，1天内重复请求会直接使用本地缓存，减少服务器负载
+            requestHeaders: { 'Cache-Control': 'public, max-age=86400' },
+            // 减少 Docsify 对大量静态链接的无意义解析，所有匹配的链接会保持原样，Docsify 不会尝试解析或拦截它们的跳转行为
+            noCompileLinks: [
+                '^https://pan\\.quark\\.cn/s/',
+                '^https://pan\\.xunlei\\.com/s/',
+                '^https://pan\\.baidu\\.com/s/',
+                '^https://www\\.aliyundrive\\.com/s/'
+            ],
+
+            // 统一侧边栏：所有子目录的 _sidebar.md 都使用根目录的侧边栏
+            alias: { "/.*/_sidebar.md": "/_sidebar.md", '/.*/_navbar.md': '/_navbar.md', },
+
+            // 页面右侧toc插件设置
+            toc: {
+                tocMaxLevel: 2,
+                target: 'h2',
+                ignoreHeaders: [/^ignore.*/i]
+            },
+            // 搜索配置
+            serviceWorker: {
+                update: true,                   // 强制检测更新
+                cacheName: 'docsify-' + Date.now()  // 每次页面加载都会生成新缓存名
+            },
+            search: {
+                paths: '/zh-cn',                               // 指定搜索路径   默认值'auto',全文搜索
+                maxAge: 60000,                                // 将缓存时间延长至7天,过期时间86400000，单位毫秒，默认一天
+                placeholder: '🦖 搜 索 🦖',
+                noData: '没有搜到，换个关键词试试！！或联系站长让他上资源',
+                depth: 4,                                      // 限制搜索深度到 h4, 1 - 6
+                headings: ['h4'],                               // 仅索引 h4 标题
+                hideOtherSidebarContent: true,                  // 是否隐藏其他侧边栏内容.，false，true
+                namespace: 'web',
+                pathNamespaces: ['/zh-cn', '/en',],
+                path: '/zh-cn',
+            },
+            //选项卡插件设置
+            tabs: {
+                persist: true, // default
+                sync: true, // default
+                theme: 'classic', // default
+                tabComments: true, // default
+                tabHeadings: true,// default
+            },
+            // 文本高亮插件
+            'flexible-alerts': {
+                style: 'flat',
+                note: {
+                    label: "信息"
+                },
+                tip: {
+                    label: "提示"
+                },
+                warning: {
+                    label: "注意"
+                },
+                attention: {
+                    label: "切记"
+                }
+            },
+            themeable: {
+                readyTransition: true, // default 显示淡入淡出过渡
+                responsiveTables: true, // default 较小的屏幕上显示为响应式表
+            },
+
+            // 留言板插件设置
+            Valine: {
+                el: '#vcomment',
+                appId: 'c07LQPl4kvoHe374MmKvqP9C-gzGzoHsz',
+                appKey: 'tNZelts8Qg0wzGjBBlUFHX7y',
+                placeholder: "资源链接失效、想要新资源，留言吧！！！游戏安装问题可进群@群主为你解答...",
+                avatar: 'wavatar',//(''/mp/identicon/monsterid/wavatar/robohash/retro/hide)头像设置https://valine.js.org/avatar.html,
+                avatar_cdn: 'https://cravatar.cn/avatar/',// 自定义avatar cdn
+                pageSize: '7',                 //评论列表分页，每页条数。
+                meta: ['nick', 'mail',],
+                requiredFields: ['nick'],//必须填写昵称才能评论
+                recordIP: 'false',
+                enableQQ: 'true',
+            },
+            plugins: [
+                // 只保留必要的插件，其他插件可以动态加载
+                function (hook) {
+                    hook.mounted(function () {
+                        // 动态加载非关键插件
+                        const lazyPlugins = [
+                            '//unpkg.com/clickheart@latest/index.js',
+                            '//unpkg.com/docsify-tabs@latest/dist/docsify-tabs.js',
+                            '//unpkg.com/aplayer@latest/dist/APlayer.min.js',
+                            '//unpkg.com/docsify@latest/lib/plugins/zoom-image.min.js',
+                            '//unpkg.com/docsify@latest/lib/plugins/ga.js',
+                        ];
+                        lazyPlugins.forEach(src => {
+                            const script = document.createElement('script');
+                            script.src = src;
+                            script.defer = true;
+                            document.body.appendChild(script);
+                        });
+                    });
+                }
+            ],
+        }
+    </script>
+    <!-- docsify的js依赖 -->
+    <script src="https://unpkg.com/docsify@latest/lib/docsify.min.js"></script>
+    <!-- 全文搜索  -->
+    <script src="https://unpkg.com/docsify@latest/lib/plugins/search.min.js"></script>
+    <!-- 侧边栏目录折叠 -->
+    <script src="https://unpkg.com/docsify-sidebar-collapse@latest/dist/docsify-sidebar-collapse.js"></script>
+    <!-- 选项卡插件 -->
+    <script src="https://unpkg.com/docsify-tabs@latest/dist/docsify-tabs.min.js"></script>
+    <!-- 页面右侧 TOC插件 -->
+    <script src="./assets/js/docsify-plugin-toc.min.js" defer></script>
+    <link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@latest/dist/light.css" defer />
+    <!-- 外链脚本插件 可以在.md中引用 -->
+    <script src="https://unpkg.com/docsify@latest/lib/plugins/external-script.js"></script>
+    <!-- 图片缩放 -->
+    <script src="https://unpkg.com/docsify@latest/lib/plugins/zoom-image.min.js" defer></script>
+    <!-- 页脚信息 -->
+    <script src="./assets/js/docsify-footer.min.js" defer></script>
+    <!--留言板插件 -->
+    <script src="https://unpkg.com/valine@latest"></script>
+    <script src="https://unpkg.com/docsify-valine@latest"></script>
+    <!-- 谷歌分析 -->
+    <script src="https://unpkg.com/docsify@latest/lib/plugins/ga.js" defer></script>
+    <!-- 文本高亮 -->
+    <script src="https://unpkg.com/docsify-plugin-flexible-alerts@latest/dist/docsify-plugin-flexible-alerts.js"
+        defer></script>
+    <!-- Docsify手风琴插件 -->
+    <script src="https://unpkg.com/docsify-accordion@latest/src/index.js" defer></script>
+    <link rel="stylesheet" href="https://unpkg.com/docsify-accordion@latest/src/style.css" defer />
+
+    <!--音乐插件-->
+    <!-- 1. 加载APlayer核心库 -->
+    <link rel="stylesheet" href="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css">
+    <script src="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.js"></script>
+    <!-- 2. 加载MetingJS -->
+    <script src="https://unpkg.com/meting@2.0.1/dist/Meting.min.js"></script>
+
+    <!-- 音乐插件 配置 -->
+    <!-- 播放器配置说明：
+    - 网易云音乐歌单ID（此处示例为8925762343）
+    - server: 音乐平台：netease（网易云）、tencent（QQ音乐）、kugou（酷狗）等
+    - type: 播放类型：playlist（歌单）、song（单曲）、album（专辑）等
+    - fixed: 是否开启吸底模式：true（固定在页面底部）、false（不固定）
+    - autoplay: 是否自动播放：true（自动播放）、false（不自动播放，避免浏览器拦截）
+    - theme: 播放器主题色（十六进制颜色码，如#b7daff）
+    - loop: 循环模式：none（不循环）、all（列表循环）、one（单曲循环）
+    - order: 播放顺序：random（随机）、list（列表顺序）
+    - volume: 默认音量：0~1之间（0.6表示60%音量）
+    - mutex: 是否互斥：true（阻止多个播放器同时播放）、false（允许多个播放器播放）
+    - lrc-type: 歌词显示模式：0（不显示）、1（LRC格式）、2（JS解析）、3（外部文件）
+    - preload: 预加载：none（不预加载）、metadata（仅元数据）、auto（自动加载）
+    - list-folded: <!-- 是否默认折叠播放列表：true（折叠）、false（展开）
+    -->
+    <meting-js id="8925762343" server="netease" type="playlist" fixed="true" autoplay="false" theme="#b7daff"
+        loop="none" order="random" volume="0.6" mutex="true" lrc-type="1" preload="none" list-folded="true">
+    </meting-js>
+
+    <script type="text/javascript">
+        // 更精确的时间计算函数
+        function calculateRunTime() {
+            // 设置网站上线时间（注意：月份0-11，4表示5月）
+            // 修改这里的日期即可调整起始时间 ▼▼▼
+            const startDate = new Date(2024, 3, 3, 21, 0, 0); // 2024年4月3日21:00:00
+            const now = new Date();
+            const diff = now - startDate; // 获取时间差（毫秒）
+
+            // 计算各时间单位（修正后的计算方式）
+            const seconds = Math.floor(diff / 1000) % 60;       // 秒数
+            const minutes = Math.floor(diff / (1000 * 60)) % 60; // 分钟
+            const hours = Math.floor(diff / (1000 * 60 * 60)) % 24; // 小时
+            const days = Math.floor(diff / (1000 * 60 * 60 * 24)); // 总天数
+            const years = Math.floor(days / 365);             // 年数
+            const remainingDays = days % 365;                 // 剩余天数
+            return {
+                years,
+                days: remainingDays, // 使用取模后的剩余天数
+                hours,
+                minutes,
+                seconds
+            };
+        }
+
+        /// 更新页面显示的函数
+        function updateSiteTime() {
+            const timeInfo = calculateRunTime();
+            const timeElement = document.getElementById("sitetime");
+
+            if (timeElement) {
+                timeElement.innerHTML = `本网站已运行 ${timeInfo.years}年 ${timeInfo.days}天 ${timeInfo.hours}时 ${timeInfo.minutes}分 ${timeInfo.seconds}秒`;
+            }
+
+            // 使用requestAnimationFrame优化性能
+            requestAnimationFrame(updateSiteTime);
+        }
+        // 每秒更新一次
+        setTimeout(updateSiteTime, 1000);
+
+        // 页面加载完成后启动
+        if (document.readyState === "complete") {
+            updateSiteTime();
+        } else {
+            window.addEventListener("load", updateSiteTime);
+        }
+    </script>
+
+</body>
+
+</html>
